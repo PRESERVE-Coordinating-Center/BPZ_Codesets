@@ -1,0 +1,1572 @@
+concept_id,concept_name,concept_code,vocabulary_id
+44135595,0.75 ML Epoetin Alfa 40000 UNT/ML Injection [Eprex] by Janssen,OMOP1130226,RxNorm Extension
+44135591,0.75 ML Epoetin Alfa 40000 UNT/ML Injection [Eprex],OMOP1130222,RxNorm Extension
+44132946,0.8 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex Solution Ml] Box of 6 by Janssen,OMOP1127577,RxNorm Extension
+44132945,0.8 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex Solution Ml] Box of 6,OMOP1127576,RxNorm Extension
+44132801,0.5 ML Epoetin Alfa 4000 UNT/ML Injection [Eprex] Box of 6,OMOP1127432,RxNorm Extension
+44132759,0.5 ML Epoetin Alfa 40000 UNT/ML Injection [Eprex],OMOP1127390,RxNorm Extension
+44132584,0.5 ML Epoetin Alfa 4000 UNT/ML Injection [Eprex],OMOP1127215,RxNorm Extension
+44132556,0.5 ML Epoetin Alfa 40000 UNT/ML Injection [Eprex] by Janssen,OMOP1127187,RxNorm Extension
+44132555,0.5 ML Epoetin Alfa 4000 UNT/ML Injection [Eprex] Box of 6 by Janssen,OMOP1127186,RxNorm Extension
+44112250,Epoetin Alfa 20000 UNT/ML Injection [Eprex],OMOP1106881,RxNorm Extension
+44102404,Epoetin Alfa 2000 UNT/ML Injection [Eprex] by Janssen,OMOP1097035,RxNorm Extension
+44089382,Epoetin Alfa 40000 UNT/ML Injection [Eprex] by Janssen,OMOP1084013,RxNorm Extension
+44089381,Epoetin Alfa 20000 UNT/ML Injection [Eprex] by Janssen,OMOP1084012,RxNorm Extension
+44073577,Epoetin Alfa 4000 UNT/ML Injection [Eprex],OMOP1068208,RxNorm Extension
+44063810,Epoetin Alfa 4000 UNT/ML Injection [Eprex] by Janssen,OMOP1058441,RxNorm Extension
+44060784,Epoetin Alfa 10000 UNT/ML Injection [Eprex Solution Ml] Box of 6,OMOP1055415,RxNorm Extension
+44047747,Epoetin Alfa 40000 UNT/ML Injection [Eprex],OMOP1042378,RxNorm Extension
+44047746,Epoetin Alfa 2000 UNT/ML Injection [Eprex],OMOP1042377,RxNorm Extension
+44047745,Epoetin Alfa 4000 UNT/ML Injection [Eprex] Box of 6,OMOP1042376,RxNorm Extension
+44045740,Epoetin Alfa 20000 UNT/ML Injection,OMOP1040371,RxNorm Extension
+44044280,Epoetin Alfa Injection [Eprex],OMOP1038911,RxNorm Extension
+44037636,Epoetin Alfa 10000 UNT/ML Injection [Eprex] Box of 6 by Janssen,OMOP1032267,RxNorm Extension
+44031222,Epoetin Alfa Injection [Eprex Solution Ml],OMOP1025853,RxNorm Extension
+43297884,0.75 ML Epoetin Alfa 40000 UNT/ML Injection,OMOP560050,RxNorm Extension
+43297469,0.8 ML Epoetin Alfa 10000 UNT/ML Injection,OMOP560084,RxNorm Extension
+43292484,0.75 ML Epoetin Alfa 40000 UNT/ML Injection Box of 6,OMOP560051,RxNorm Extension
+43292074,0.6 ML Epoetin Alfa 10000 UNT/ML Injection Box of 6,OMOP559946,RxNorm Extension
+43292073,0.6 ML Epoetin Alfa 10000 UNT/ML Injection,OMOP559945,RxNorm Extension
+43292018,0.5 ML Epoetin Alfa 10000 UNT/ML Injection Box of 6,OMOP559401,RxNorm Extension
+43292017,0.5 ML Epoetin Alfa 4000 UNT/ML Injection Box of 6,OMOP559397,RxNorm Extension
+43288143,Epoetin Alfa 4000 UNT/ML Injection Box of 6,OMOP530658,RxNorm Extension
+43286634,0.5 ML Epoetin Alfa 4000 UNT/ML Injection,OMOP559396,RxNorm Extension
+43286633,0.5 ML Epoetin Alfa 40000 UNT/ML Injection,OMOP559388,RxNorm Extension
+43286602,0.3 ML Epoetin Alfa 10000 UNT/ML Injection,OMOP559153,RxNorm Extension
+43285942,1 ML Epoetin Alfa 10000 UNT/ML Injection Box of 6,OMOP560262,RxNorm Extension
+43281171,0.5 ML Epoetin Alfa 10000 UNT/ML Injection,OMOP559400,RxNorm Extension
+43281160,0.4 ML Epoetin Alfa 10000 UNT/ML Injection Box of 6,OMOP559260,RxNorm Extension
+43277397,Epoetin Alfa 10000 UNT/ML Injection Box of 6,OMOP530661,RxNorm Extension
+43275843,0.5 ML Epoetin Alfa 40000 UNT/ML Injection Box of 6,OMOP559387,RxNorm Extension
+43275826,0.4 ML Epoetin Alfa 10000 UNT/ML Injection,OMOP559259,RxNorm Extension
+43271884,Epoetin Alfa 40000 UNT/ML Injection Box of 6,OMOP530652,RxNorm Extension
+43264877,0.8 ML Epoetin Alfa 10000 UNT/ML Injection Box of 6,OMOP560085,RxNorm Extension
+43260919,Epoetin Alfa 2000 UNT/ML Injection Box of 6,OMOP530654,RxNorm Extension
+43259371,0.5 ML Epoetin Alfa 2000 UNT/ML Injection Box of 6,OMOP559393,RxNorm Extension
+43259370,0.5 ML Epoetin Alfa 2000 UNT/ML Injection,OMOP559392,RxNorm Extension
+43259343,0.3 ML Epoetin Alfa 10000 UNT/ML Injection Box of 6,OMOP559152,RxNorm Extension
+36121015,1 ML epoetin alfa 40000 UNT/ML Injection [Binocrit] Box of 1 by Sandoz,OMOP5050005,RxNorm Extension
+36121014,1 ML epoetin alfa 40000 UNT/ML Injection [Binocrit] Box of 1,OMOP5050004,RxNorm Extension
+36121013,1 ML epoetin alfa 40000 UNT/ML Injection [Binocrit] by Sandoz,OMOP5050003,RxNorm Extension
+36121012,1 ML epoetin alfa 40000 UNT/ML Injection [Binocrit],OMOP5050002,RxNorm Extension
+36121011,1 ML epoetin alfa 40000 UNT/ML Injection [Eprex] Box of 1 by Janssen,OMOP5050001,RxNorm Extension
+36121010,1 ML epoetin alfa 40000 UNT/ML Injection [Eprex] Box of 1,OMOP5050000,RxNorm Extension
+36121009,1 ML epoetin alfa 40000 UNT/ML Injection [Eprex] by Janssen,OMOP5049999,RxNorm Extension
+36121008,1 ML epoetin alfa 40000 UNT/ML Injection [Eprex],OMOP5049998,RxNorm Extension
+36121007,1 ML epoetin alfa 40000 UNT/ML Injection Box of 1,OMOP5049997,RxNorm Extension
+36120995,1 ML epoetin alfa 2000 UNT/ML Injection [Binocrit] Box of 6 by Sandoz,OMOP5049986,RxNorm Extension
+36120994,1 ML epoetin alfa 2000 UNT/ML Injection [Binocrit] Box of 6,OMOP5049985,RxNorm Extension
+36120993,1 ML epoetin alfa 2000 UNT/ML Injection [Binocrit] by Sandoz,OMOP5049984,RxNorm Extension
+36120992,1 ML epoetin alfa 2000 UNT/ML Injection [Binocrit],OMOP5049983,RxNorm Extension
+36120991,1 ML epoetin alfa 2000 UNT/ML Injection Box of 6,OMOP5049982,RxNorm Extension
+36120970,0.75 ML epoetin alfa 40000 UNT/ML Injection [Binocrit] Box of 1 by Sandoz,OMOP5049957,RxNorm Extension
+36120969,0.75 ML epoetin alfa 40000 UNT/ML Injection [Binocrit] Box of 1,OMOP5049956,RxNorm Extension
+36120968,0.75 ML epoetin alfa 40000 UNT/ML Injection [Binocrit] by Sandoz,OMOP5049955,RxNorm Extension
+36120967,0.75 ML epoetin alfa 40000 UNT/ML Injection [Binocrit],OMOP5049954,RxNorm Extension
+36120966,0.75 ML epoetin alfa 40000 UNT/ML Injection [Eprex] Box of 1 by Janssen,OMOP5049953,RxNorm Extension
+36120965,0.75 ML epoetin alfa 40000 UNT/ML Injection [Eprex] Box of 1,OMOP5049952,RxNorm Extension
+36120964,0.75 ML epoetin alfa 40000 UNT/ML Injection Box of 1,OMOP5049951,RxNorm Extension
+36120932,0.5 ML epoetin alfa 40000 UNT/ML Injection [Binocrit] Box of 1 by Sandoz,OMOP5049917,RxNorm Extension
+36120931,0.5 ML epoetin alfa 40000 UNT/ML Injection [Binocrit] Box of 1,OMOP5049916,RxNorm Extension
+36120930,0.5 ML epoetin alfa 40000 UNT/ML Injection [Binocrit] by Sandoz,OMOP5049915,RxNorm Extension
+36120929,0.5 ML epoetin alfa 40000 UNT/ML Injection [Binocrit],OMOP5049914,RxNorm Extension
+36120928,0.5 ML epoetin alfa 40000 UNT/ML Injection [Eprex] Box of 1 by Janssen,OMOP5049913,RxNorm Extension
+36120927,0.5 ML epoetin alfa 40000 UNT/ML Injection [Eprex] Box of 1,OMOP5049912,RxNorm Extension
+36120926,0.5 ML epoetin alfa 40000 UNT/ML Injection Box of 1,OMOP5049911,RxNorm Extension
+36120915,0.5 ML epoetin alfa 4000 UNT/ML Injection [Eprex] Box of 6 by Dowelhurst,OMOP5049900,RxNorm Extension
+36120914,0.5 ML epoetin alfa 4000 UNT/ML Injection [Eprex] by Janssen,OMOP5049899,RxNorm Extension
+36120913,0.5 ML epoetin alfa 4000 UNT/ML Injection [Eprex] by Dowelhurst,OMOP5049898,RxNorm Extension
+36120904,0.5 ML epoetin alfa 2000 UNT/ML Injection [Binocrit] Box of 6 by Sandoz,OMOP5049889,RxNorm Extension
+36120903,0.5 ML epoetin alfa 2000 UNT/ML Injection [Binocrit] Box of 6,OMOP5049888,RxNorm Extension
+36120902,0.5 ML epoetin alfa 2000 UNT/ML Injection [Binocrit] by Sandoz,OMOP5049887,RxNorm Extension
+36120901,0.5 ML epoetin alfa 2000 UNT/ML Injection [Binocrit],OMOP5049886,RxNorm Extension
+36120900,0.5 ML epoetin alfa 2000 UNT/ML Injection [Eprex] Box of 6 by Janssen,OMOP5049885,RxNorm Extension
+36120899,0.5 ML epoetin alfa 2000 UNT/ML Injection [Eprex] Box of 6 by Dowelhurst,OMOP5049884,RxNorm Extension
+36120898,0.5 ML epoetin alfa 2000 UNT/ML Injection [Eprex] Box of 6,OMOP5049883,RxNorm Extension
+36120897,0.5 ML epoetin alfa 2000 UNT/ML Injection [Eprex] by Janssen,OMOP5049882,RxNorm Extension
+36119540,epoetin alfa 40000 UNT/ML Injection [Binocrit] Box of 1,OMOP5048405,RxNorm Extension
+36119539,epoetin alfa 40000 UNT/ML Injection [Binocrit],OMOP5048404,RxNorm Extension
+36119538,epoetin alfa 40000 UNT/ML Injection [Eprex] Box of 1,OMOP5048403,RxNorm Extension
+36119537,epoetin alfa 40000 UNT/ML Injection Box of 1,OMOP5048402,RxNorm Extension
+36119523,epoetin alfa Injection [Binocrit],OMOP5048382,RxNorm Extension
+36118767,0.5 ML epoetin alfa 2000 UNT/ML Injection [Eprex] by Dowelhurst,OMOP5049881,RxNorm Extension
+36118766,0.5 ML epoetin alfa 2000 UNT/ML Injection [Eprex],OMOP5049880,RxNorm Extension
+36118643,epoetin alfa 2000 UNT/ML Injection [Binocrit] Box of 6,OMOP5048391,RxNorm Extension
+36118642,epoetin alfa 2000 UNT/ML Injection [Binocrit],OMOP5048390,RxNorm Extension
+36118641,epoetin alfa 2000 UNT/ML Injection [Eprex] Box of 6,OMOP5048389,RxNorm Extension
+35605583,epoetin alfa 10000 UNT/ML Injection [Procrit],1721691,RxNorm
+35605582,1 ML epoetin alfa 10000 UNT/ML Injection [Procrit],1721690,RxNorm
+35605581,epoetin alfa 10000 UNT/ML Injection [Epogen],1721687,RxNorm
+35605580,epoetin alfa 10000 UNT/ML Injection,1721686,RxNorm
+35605579,1 ML epoetin alfa 10000 UNT/ML Injection [Epogen],1721685,RxNorm
+35605578,1 ML epoetin alfa 10000 UNT/ML Injection,1721684,RxNorm
+35605577,epoetin alfa 40000 UNT/ML Injection [Procrit],1721662,RxNorm
+35605576,epoetin alfa 40000 UNT/ML Injection,1721660,RxNorm
+35605575,epoetin alfa 4000 UNT/ML Injection [Epogen],1721658,RxNorm
+35605574,epoetin alfa 4000 UNT/ML Injection [Procrit],1721656,RxNorm
+35605573,epoetin alfa 4000 UNT/ML Injection,1721654,RxNorm
+35605572,epoetin alfa 3000 UNT/ML Injection [Epogen],1721652,RxNorm
+35605571,epoetin alfa 3000 UNT/ML Injection [Procrit],1721650,RxNorm
+35605570,epoetin alfa 3000 UNT/ML Injection,1721648,RxNorm
+35605569,epoetin alfa 2000 UNT/ML Injection [Epogen],1721645,RxNorm
+35605568,epoetin alfa Injection [Epogen],1721643,RxNorm
+35605567,epoetin alfa 2000 UNT/ML Injection [Procrit],1721642,RxNorm
+35605566,epoetin alfa Injection [Procrit],1721640,RxNorm
+35605565,epoetin alfa 2000 UNT/ML Injection,1721639,RxNorm
+35605564,epoetin alfa Injection,1721637,RxNorm
+19058653,1 ML epoetin alfa 40000 UNT/ML Injection,242706,RxNorm
+19057740,1 ML epoetin alfa 3000 UNT/ML Injection,240377,RxNorm
+19030766,1 ML epoetin alfa 4000 UNT/ML Injection [Procrit],205924,RxNorm
+19030765,1 ML epoetin alfa 4000 UNT/ML Injection [Epogen],205923,RxNorm
+19030764,1 ML epoetin alfa 3000 UNT/ML Injection [Procrit],205922,RxNorm
+19030763,1 ML epoetin alfa 3000 UNT/ML Injection [Epogen],205921,RxNorm
+19030762,1 ML epoetin alfa 2000 UNT/ML Injection [Procrit],205918,RxNorm
+19030761,1 ML epoetin alfa 2000 UNT/ML Injection [Epogen],205917,RxNorm
+1510807,1 ML epoetin alfa-epbx 40000 UNT/ML Injection [Retacrit],2047623,RxNorm
+1510806,1 ML epoetin alfa-epbx 40000 UNT/ML Injection,2047621,RxNorm
+1510805,1 ML epoetin alfa-epbx 4000 UNT/ML Injection [Retacrit],2047614,RxNorm
+1510804,1 ML epoetin alfa-epbx 3000 UNT/ML Injection [Retacrit],2047608,RxNorm
+1510803,1 ML epoetin alfa-epbx 3000 UNT/ML Injection,2047606,RxNorm
+1510802,1 ML epoetin alfa-epbx 2000 UNT/ML Injection [Retacrit],2047602,RxNorm
+1510801,1 ML epoetin alfa-epbx 2000 UNT/ML Injection,2047600,RxNorm
+1510800,1 ML epoetin alfa-epbx 10000 UNT/ML Injection [Retacrit],2047596,RxNorm
+1510799,1 ML epoetin alfa-epbx 10000 UNT/ML Injection,2047591,RxNorm
+1510766,1 ML epoetin alfa-epbx 4000 UNT/ML Injection,2047612,RxNorm
+1510686,epoetin alfa-epbx 40000 UNT/ML Injection [Retacrit],2047625,RxNorm
+1510685,epoetin alfa-epbx 40000 UNT/ML Injection,2047624,RxNorm
+1510682,epoetin alfa-epbx 4000 UNT/ML Injection [Retacrit],2047616,RxNorm
+1510681,epoetin alfa-epbx 4000 UNT/ML Injection,2047615,RxNorm
+1510678,epoetin alfa-epbx 3000 UNT/ML Injection [Retacrit],2047610,RxNorm
+1510677,epoetin alfa-epbx 3000 UNT/ML Injection,2047609,RxNorm
+1510674,epoetin alfa-epbx 2000 UNT/ML Injection [Retacrit],2047604,RxNorm
+1510673,epoetin alfa-epbx 2000 UNT/ML Injection,2047603,RxNorm
+1510670,epoetin alfa-epbx 10000 UNT/ML Injection [Retacrit],2047598,RxNorm
+1510669,epoetin alfa-epbx 10000 UNT/ML Injection,2047597,RxNorm
+1510667,epoetin alfa Injection [Retacrit],2047594,RxNorm
+1301170,1 ML epoetin alfa 4000 UNT/ML Injection,239999,RxNorm
+1301169,1 ML epoetin alfa 2000 UNT/ML Injection,239998,RxNorm
+1301168,1 ML epoetin alfa 40000 UNT/ML Injection [Procrit],213475,RxNorm
+590513,Epoetin Alfa 10000 UNT/ML Injection [Eprex Solution Ml],OMOP3136783,RxNorm Extension
+590124,0.8 ML Epoetin Alfa 10000 UNT/ML Injection [Eprex Solution Ml],OMOP3135753,RxNorm Extension
+590122,0.8 ML Epoetin Alfa 10000 UNT/ML Injection [Eprex Solution Ml] Box of 6,OMOP3138932,RxNorm Extension
+589574,Epoetin Alfa 10000 UNT/ML Injection [Eprex],OMOP3137635,RxNorm Extension
+589325,0.3 ML Epoetin Alfa 10000 UNT/ML Injection [Eprex],OMOP3135420,RxNorm Extension
+589292,0.8 ML Epoetin Alfa 10000 UNT/ML Injection [Eprex Solution Ml] Box of 6 by Janssen,OMOP3135633,RxNorm Extension
+588611,0.3 ML Epoetin Alfa 10000 UNT/ML Injection [Eprex] Box of 6 by Janssen,OMOP3137095,RxNorm Extension
+588380,0.3 ML Epoetin Alfa 10000 UNT/ML Injection [Eprex] Box of 6,OMOP3137277,RxNorm Extension
+586954,Epoetin Alfa 10000 UNT/ML Injection [Eprex] Box of 6,OMOP3136040,RxNorm Extension
+35777098,1 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2778559,RxNorm Extension
+35777097,1 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Binocrit] Box of 6,OMOP2778558,RxNorm Extension
+35776947,1 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] by Dowelhurst,OMOP2778408,RxNorm Extension
+35776827,1 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] Box of 6,OMOP2778288,RxNorm Extension
+35776677,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP2778138,RxNorm Extension
+35776676,1 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP2778137,RxNorm Extension
+35776675,1 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP2778136,RxNorm Extension
+35776534,1 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex],OMOP2777995,RxNorm Extension
+35776392,1 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6 by Dowelhurst,OMOP2777853,RxNorm Extension
+35776391,1 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP2777852,RxNorm Extension
+35776390,1 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] Box of 6 by Sandoz,OMOP2777851,RxNorm Extension
+35776270,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit],OMOP2777731,RxNorm Extension
+35775478,Epoetin Alfa 2000 UNT/ML Injectable Solution [Binocrit],OMOP2776939,RxNorm Extension
+35771305,Epoetin Alfa 2000 UNT/ML Injectable Solution [Binocrit] Box of 6,OMOP2772766,RxNorm Extension
+35766240,Epoetin Alfa Injectable Solution [Binocrit],OMOP2767701,RxNorm Extension
+35758686,Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 1,OMOP2760147,RxNorm Extension
+35758685,Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit],OMOP2760146,RxNorm Extension
+35758684,Epoetin Alfa 4000 UNT/ML Injectable Solution [Eprex],OMOP2760145,RxNorm Extension
+35754569,Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] Box of 6,OMOP2756030,RxNorm Extension
+35750342,Epoetin Alfa 4000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2751803,RxNorm Extension
+35742377,Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit],OMOP2743838,RxNorm Extension
+35161109,Epoetin Alfa 1500 UNT/ML Injectable Solution,OMOP4818082,RxNorm Extension
+35160446,2 ML Epoetin Alfa 1500 UNT/ML Injectable Solution,OMOP4817424,RxNorm Extension
+35160126,Epoetin Alfa 12000 UNT/ML Injectable Solution,OMOP4817105,RxNorm Extension
+35158407,Epoetin Alfa 12000 UNT/ML Injectable Solution [Espo],OMOP4815404,RxNorm Extension
+35155692,Epoetin Alfa Injectable Solution [Espo],OMOP4812707,RxNorm Extension
+35155360,Epoetin Alfa 24000 UNT/ML Injectable Solution [Espo],OMOP4812376,RxNorm Extension
+35154664,0.5 ML Epoetin Alfa 48000 UNT/ML Injectable Solution,OMOP4811686,RxNorm Extension
+35154519,0.5 ML Epoetin Alfa 24000 UNT/ML Injectable Solution [Espo],OMOP4811542,RxNorm Extension
+35153085,0.5 ML Epoetin Alfa 12000 UNT/ML Injectable Solution,OMOP4810115,RxNorm Extension
+35152765,0.5 ML Epoetin Alfa 12000 UNT/ML Injectable Solution [Espo],OMOP4809798,RxNorm Extension
+35152509,0.5 ML Epoetin Alfa 1500 UNT/ML Injectable Solution,OMOP4809542,RxNorm Extension
+35145846,0.5 ML Epoetin Alfa 24000 UNT/ML Injectable Solution,OMOP4802933,RxNorm Extension
+35145297,0.5 ML Epoetin Alfa 48000 UNT/ML Injectable Solution [Espo],OMOP4802387,RxNorm Extension
+35141849,2 ML Epoetin Alfa 750 UNT/ML Injectable Solution [Espo],OMOP4798971,RxNorm Extension
+35141060,Epoetin Alfa 24000 UNT/ML Injectable Solution,OMOP4798192,RxNorm Extension
+35140013,Epoetin Alfa 750 UNT/ML Injectable Solution [Espo],OMOP4797163,RxNorm Extension
+35139729,Epoetin Alfa 1500 UNT/ML Injectable Solution [Espo],OMOP4796880,RxNorm Extension
+35138606,2 ML Epoetin Alfa 750 UNT/ML Injectable Solution,OMOP4795765,RxNorm Extension
+35138313,2 ML Epoetin Alfa 1500 UNT/ML Injectable Solution [Espo],OMOP4795474,RxNorm Extension
+35136525,Epoetin Alfa 48000 UNT/ML Injectable Solution,OMOP4793702,RxNorm Extension
+35135010,Epoetin Alfa 750 UNT/ML Injectable Solution,OMOP4792209,RxNorm Extension
+35134482,Epoetin Alfa 48000 UNT/ML Injectable Solution [Espo],OMOP4791683,RxNorm Extension
+35133405,0.5 ML Epoetin Alfa 1500 UNT/ML Injectable Solution [Espo],OMOP4790614,RxNorm Extension
+19057622,epoetin alfa 10000 UNT/ML Injectable Solution,240000,RxNorm
+19030687,epoetin alfa 10000 UNT/ML Injectable Solution [Procrit],205913,RxNorm
+19030686,epoetin alfa 10000 UNT/ML Injectable Solution [Epogen],205912,RxNorm
+19012615,epoetin alfa 10000 UNT/ML Injectable Solution [Eprex],150916,RxNorm
+1301173,epoetin alfa 20000 UNT/ML Injectable Solution,241999,RxNorm
+1301166,epoetin alfa 20000 UNT/ML Injectable Solution [Procrit],212219,RxNorm
+1301165,epoetin alfa 20000 UNT/ML Injectable Solution [Epogen],212218,RxNorm
+590452,Epoetin Alfa 20000 UNT/ML Injectable Solution [Eprex],OMOP3138539,RxNorm Extension
+590366,Epoetin Alfa 20000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP3135697,RxNorm Extension
+589734,Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP3137530,RxNorm Extension
+40038945,epoetin alfa Injectable Solution [Epogen],92613,RxNorm
+40038944,epoetin alfa Injectable Solution,372032,RxNorm
+37003221,epoetin alfa-epbx 20000 UNT/ML Injectable Solution [Retacrit],2463737,RxNorm
+37003219,epoetin alfa-epbx 20000 UNT/ML Injectable Solution,2463735,RxNorm
+37003217,epoetin alfa-epbx 10000 UNT/ML Injectable Solution [Retacrit],2463733,RxNorm
+37003216,epoetin alfa Injectable Solution [Retacrit],2463732,RxNorm
+37003215,epoetin alfa-epbx 10000 UNT/ML Injectable Solution,2463731,RxNorm
+36281141,0.5 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 6 by Sandoz,OMOP3132016,RxNorm Extension
+36281112,0.5 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 6,OMOP3131987,RxNorm Extension
+36281082,0.5 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP3131957,RxNorm Extension
+36277924,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP3128799,RxNorm Extension
+36277797,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP3128672,RxNorm Extension
+36263060,Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 6,OMOP3113935,RxNorm Extension
+36121006,1 ML epoetin alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 1 by Sandoz,OMOP5049996,RxNorm Extension
+36121005,1 ML epoetin alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 1,OMOP5049995,RxNorm Extension
+36121004,1 ML epoetin alfa 40000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP5049994,RxNorm Extension
+36121003,1 ML epoetin alfa 40000 UNT/ML Injectable Solution [Binocrit],OMOP5049993,RxNorm Extension
+36121002,1 ML epoetin alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 1 by Janssen,OMOP5049992,RxNorm Extension
+36121001,1 ML epoetin alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 1,OMOP5049991,RxNorm Extension
+36121000,1 ML epoetin alfa 40000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP5049990,RxNorm Extension
+36120999,1 ML epoetin alfa 40000 UNT/ML Injectable Solution [Eprex],OMOP5049989,RxNorm Extension
+36120998,1 ML epoetin alfa 40000 UNT/ML Injectable Solution Box of 1,OMOP5049988,RxNorm Extension
+36120997,1 ML epoetin alfa 40000 UNT/ML Injectable Solution,OMOP5049987,RxNorm Extension
+36120990,1 ML epoetin alfa 2000 UNT/ML Injectable Solution [Binocrit] Box of 6 by Sandoz,OMOP5049981,RxNorm Extension
+36120989,1 ML epoetin alfa 2000 UNT/ML Injectable Solution [Binocrit] Box of 6,OMOP5049980,RxNorm Extension
+36120988,1 ML epoetin alfa 2000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP5049979,RxNorm Extension
+36120987,1 ML epoetin alfa 2000 UNT/ML Injectable Solution [Binocrit],OMOP5049978,RxNorm Extension
+36120986,1 ML epoetin alfa 2000 UNT/ML Injectable Solution Box of 6,OMOP5049977,RxNorm Extension
+36120985,1 ML epoetin alfa 2000 UNT/ML Injectable Solution,OMOP5049976,RxNorm Extension
+36120963,0.75 ML epoetin alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 1 by Sandoz,OMOP5049950,RxNorm Extension
+36120962,0.75 ML epoetin alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 1,OMOP5049949,RxNorm Extension
+36120961,0.75 ML epoetin alfa 40000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP5049948,RxNorm Extension
+36120960,0.75 ML epoetin alfa 40000 UNT/ML Injectable Solution [Binocrit],OMOP5049947,RxNorm Extension
+36120959,0.75 ML epoetin alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 1 by Janssen,OMOP5049946,RxNorm Extension
+36120958,0.75 ML epoetin alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 1,OMOP5049945,RxNorm Extension
+36120957,0.75 ML epoetin alfa 40000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP5049944,RxNorm Extension
+36120956,0.75 ML epoetin alfa 40000 UNT/ML Injectable Solution [Eprex],OMOP5049943,RxNorm Extension
+36120955,0.75 ML epoetin alfa 40000 UNT/ML Injectable Solution Box of 1,OMOP5049942,RxNorm Extension
+36120954,0.75 ML epoetin alfa 40000 UNT/ML Injectable Solution,OMOP5049941,RxNorm Extension
+36120925,0.5 ML epoetin alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 1 by Sandoz,OMOP5049910,RxNorm Extension
+36120924,0.5 ML epoetin alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 1,OMOP5049909,RxNorm Extension
+36120923,0.5 ML epoetin alfa 40000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP5049908,RxNorm Extension
+36120922,0.5 ML epoetin alfa 40000 UNT/ML Injectable Solution [Binocrit],OMOP5049907,RxNorm Extension
+36120921,0.5 ML epoetin alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 1 by Janssen,OMOP5049906,RxNorm Extension
+36120920,0.5 ML epoetin alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 1,OMOP5049905,RxNorm Extension
+36120919,0.5 ML epoetin alfa 40000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP5049904,RxNorm Extension
+36120918,0.5 ML epoetin alfa 40000 UNT/ML Injectable Solution [Eprex],OMOP5049903,RxNorm Extension
+36120917,0.5 ML epoetin alfa 40000 UNT/ML Injectable Solution Box of 1,OMOP5049902,RxNorm Extension
+36120916,0.5 ML epoetin alfa 40000 UNT/ML Injectable Solution,OMOP5049901,RxNorm Extension
+36120912,0.5 ML epoetin alfa 4000 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP5049897,RxNorm Extension
+36120911,0.5 ML epoetin alfa 4000 UNT/ML Injectable Solution [Eprex] Box of 6 by Dowelhurst,OMOP5049896,RxNorm Extension
+36120910,0.5 ML epoetin alfa 4000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP5049895,RxNorm Extension
+36120909,0.5 ML epoetin alfa 4000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP5049894,RxNorm Extension
+36120908,0.5 ML epoetin alfa 4000 UNT/ML Injectable Solution [Eprex] by Dowelhurst,OMOP5049893,RxNorm Extension
+36120907,0.5 ML epoetin alfa 4000 UNT/ML Injectable Solution [Eprex],OMOP5049892,RxNorm Extension
+36120906,0.5 ML epoetin alfa 4000 UNT/ML Injectable Solution Box of 6,OMOP5049891,RxNorm Extension
+36120905,0.5 ML epoetin alfa 4000 UNT/ML Injectable Solution,OMOP5049890,RxNorm Extension
+36120896,0.5 ML epoetin alfa 2000 UNT/ML Injectable Solution [Binocrit],OMOP5049876,RxNorm Extension
+36120895,0.5 ML epoetin alfa 2000 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP5049875,RxNorm Extension
+36120894,0.5 ML epoetin alfa 2000 UNT/ML Injectable Solution [Eprex] Box of 6 by Dowelhurst,OMOP5049874,RxNorm Extension
+36120893,0.5 ML epoetin alfa 2000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP5049873,RxNorm Extension
+36120892,0.5 ML epoetin alfa 2000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP5049872,RxNorm Extension
+36120891,0.5 ML epoetin alfa 2000 UNT/ML Injectable Solution [Eprex] by Dowelhurst,OMOP5049871,RxNorm Extension
+36120890,0.5 ML epoetin alfa 2000 UNT/ML Injectable Solution [Eprex],OMOP5049870,RxNorm Extension
+36120889,0.5 ML epoetin alfa 2000 UNT/ML Injectable Solution Box of 6,OMOP5049869,RxNorm Extension
+36120888,0.5 ML epoetin alfa 2000 UNT/ML Injectable Solution,OMOP5049868,RxNorm Extension
+36119536,epoetin alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 1,OMOP5048401,RxNorm Extension
+36119535,epoetin alfa 40000 UNT/ML Injectable Solution [Binocrit],OMOP5048400,RxNorm Extension
+36119534,epoetin alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 1,OMOP5048399,RxNorm Extension
+36119533,epoetin alfa 40000 UNT/ML Injectable Solution [Eprex],OMOP5048398,RxNorm Extension
+36119532,epoetin alfa 40000 UNT/ML Injectable Solution Box of 1,OMOP5048397,RxNorm Extension
+36119531,epoetin alfa 40000 UNT/ML Injectable Solution,OMOP5048396,RxNorm Extension
+36119530,epoetin alfa 4000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP5048395,RxNorm Extension
+36119529,epoetin alfa 2000 UNT/ML Injectable Solution [Binocrit] Box of 6,OMOP5048388,RxNorm Extension
+36119528,epoetin alfa 2000 UNT/ML Injectable Solution [Binocrit],OMOP5048387,RxNorm Extension
+36119527,epoetin alfa 2000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP5048386,RxNorm Extension
+36119526,epoetin alfa 2000 UNT/ML Injectable Solution [Eprex],OMOP5048385,RxNorm Extension
+36119525,epoetin alfa 2000 UNT/ML Injectable Solution Box of 6,OMOP5048384,RxNorm Extension
+36119524,epoetin alfa 2000 UNT/ML Injectable Solution,OMOP5048383,RxNorm Extension
+36118765,0.5 ML epoetin alfa 2000 UNT/ML Injectable Solution [Binocrit] Box of 6 by Sandoz,OMOP5049879,RxNorm Extension
+36118764,0.5 ML epoetin alfa 2000 UNT/ML Injectable Solution [Binocrit] Box of 6,OMOP5049878,RxNorm Extension
+36118763,0.5 ML epoetin alfa 2000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP5049877,RxNorm Extension
+36118646,epoetin alfa 4000 UNT/ML Injectable Solution [Eprex],OMOP5048394,RxNorm Extension
+36118645,epoetin alfa 4000 UNT/ML Injectable Solution Box of 6,OMOP5048393,RxNorm Extension
+36118644,epoetin alfa 4000 UNT/ML Injectable Solution,OMOP5048392,RxNorm Extension
+35789853,0.75 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 1 by Sandoz,OMOP2791314,RxNorm Extension
+35789851,0.75 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 1,OMOP2791312,RxNorm Extension
+35789849,0.75 ML Epoetin Alfa 40000 UNT/ML Injectable Solution,OMOP2791310,RxNorm Extension
+35789847,0.75 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP2791308,RxNorm Extension
+35789844,0.75 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex],OMOP2791305,RxNorm Extension
+35789841,0.75 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 1 by Janssen,OMOP2791302,RxNorm Extension
+35789836,0.75 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 1,OMOP2791297,RxNorm Extension
+35789835,0.75 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit],OMOP2791296,RxNorm Extension
+35789826,0.75 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP2791287,RxNorm Extension
+35789817,0.75 ML Epoetin Alfa 40000 UNT/ML Injectable Solution Box of 1,OMOP2791278,RxNorm Extension
+35785955,0.9 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2787416,RxNorm Extension
+35785941,0.9 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex],OMOP2787402,RxNorm Extension
+35785939,0.9 ML Epoetin Alfa 10000 UNT/ML Injectable Solution Box of 6,OMOP2787400,RxNorm Extension
+35785936,0.9 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP2787397,RxNorm Extension
+35785933,0.9 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP2787394,RxNorm Extension
+35785930,0.9 ML Epoetin Alfa 10000 UNT/ML Injectable Solution,OMOP2787391,RxNorm Extension
+35785925,0.8 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP2787386,RxNorm Extension
+35785923,0.8 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2787384,RxNorm Extension
+35785919,0.8 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP2787380,RxNorm Extension
+35785912,0.8 ML Epoetin Alfa 10000 UNT/ML Injectable Solution Box of 6,OMOP2787373,RxNorm Extension
+35785907,0.8 ML Epoetin Alfa 10000 UNT/ML Injectable Solution,OMOP2787368,RxNorm Extension
+35785900,0.8 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] Box of 6 by Sandoz,OMOP2787361,RxNorm Extension
+35785898,0.8 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit],OMOP2787359,RxNorm Extension
+35785897,0.8 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] Box of 6,OMOP2787358,RxNorm Extension
+35785895,0.8 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP2787356,RxNorm Extension
+35785890,0.8 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex],OMOP2787351,RxNorm Extension
+35785875,0.7 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex],OMOP2787336,RxNorm Extension
+35785874,0.7 ML Epoetin Alfa 10000 UNT/ML Injectable Solution Box of 6,OMOP2787335,RxNorm Extension
+35785869,0.7 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP2787330,RxNorm Extension
+35785865,0.7 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP2787326,RxNorm Extension
+35785864,0.7 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2787325,RxNorm Extension
+35785862,0.7 ML Epoetin Alfa 10000 UNT/ML Injectable Solution,OMOP2787323,RxNorm Extension
+35785846,0.6 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] Box of 6 by Sandoz,OMOP2787307,RxNorm Extension
+35785837,0.6 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit],OMOP2787298,RxNorm Extension
+35785798,0.6 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP2787259,RxNorm Extension
+35785790,0.6 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP2787251,RxNorm Extension
+35785786,0.6 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP2787247,RxNorm Extension
+35785782,0.6 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex],OMOP2787243,RxNorm Extension
+35785781,0.6 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2787242,RxNorm Extension
+35785780,0.6 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] Box of 6,OMOP2787241,RxNorm Extension
+35785768,0.5 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] Box of 6 by Sandoz,OMOP2787229,RxNorm Extension
+35785767,0.5 ML Epoetin Alfa 4000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP2787228,RxNorm Extension
+35785753,0.5 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex],OMOP2787214,RxNorm Extension
+35785752,0.5 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit],OMOP2787213,RxNorm Extension
+35785751,0.5 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Binocrit],OMOP2787212,RxNorm Extension
+35785707,0.5 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] Box of 6,OMOP2787168,RxNorm Extension
+35785691,0.5 ML Epoetin Alfa 4000 UNT/ML Injectable Solution,OMOP2787152,RxNorm Extension
+35785676,0.5 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP2787137,RxNorm Extension
+35785658,0.5 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 1,OMOP2787119,RxNorm Extension
+35785630,0.5 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP2787091,RxNorm Extension
+35785596,0.5 ML Epoetin Alfa 40000 UNT/ML Injectable Solution,OMOP2787057,RxNorm Extension
+35785595,0.5 ML Epoetin Alfa 40000 UNT/ML Injectable Solution Box of 1,OMOP2787056,RxNorm Extension
+35785581,0.5 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 1 by Janssen,OMOP2787042,RxNorm Extension
+35785580,0.5 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 1 by Sandoz,OMOP2787041,RxNorm Extension
+35785579,0.5 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP2787040,RxNorm Extension
+35785578,0.5 ML Epoetin Alfa 4000 UNT/ML Injectable Solution [Eprex] Box of 6 by Dowelhurst,OMOP2787039,RxNorm Extension
+35785549,0.5 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP2787010,RxNorm Extension
+35785548,0.5 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Eprex] by Dowelhurst,OMOP2787009,RxNorm Extension
+35785547,0.5 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Binocrit] Box of 6 by Sandoz,OMOP2787008,RxNorm Extension
+35785546,0.5 ML Epoetin Alfa 4000 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP2787007,RxNorm Extension
+35785526,0.5 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 1,OMOP2786987,RxNorm Extension
+35785525,0.5 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Binocrit] Box of 6,OMOP2786986,RxNorm Extension
+35785524,0.5 ML Epoetin Alfa 4000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2786985,RxNorm Extension
+35785505,0.5 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Eprex] Box of 6 by Dowelhurst,OMOP2786966,RxNorm Extension
+35785481,0.5 ML Epoetin Alfa 4000 UNT/ML Injectable Solution Box of 6,OMOP2786942,RxNorm Extension
+35785463,0.5 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP2786924,RxNorm Extension
+35785462,0.5 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP2786923,RxNorm Extension
+35785461,0.5 ML Epoetin Alfa 4000 UNT/ML Injectable Solution [Eprex] by Dowelhurst,OMOP2786922,RxNorm Extension
+35785448,0.5 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit],OMOP2786909,RxNorm Extension
+35785447,0.5 ML Epoetin Alfa 4000 UNT/ML Injectable Solution [Eprex],OMOP2786908,RxNorm Extension
+35785419,0.4 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] Box of 6,OMOP2786880,RxNorm Extension
+35785409,0.4 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] by Dowelhurst,OMOP2786870,RxNorm Extension
+35785387,0.4 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP2786848,RxNorm Extension
+35785386,0.4 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6 by Dowelhurst,OMOP2786847,RxNorm Extension
+35785376,0.4 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] Box of 6 by Sandoz,OMOP2786837,RxNorm Extension
+35785373,0.4 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit],OMOP2786834,RxNorm Extension
+35785369,0.4 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP2786830,RxNorm Extension
+35785331,0.3 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6 by Dowelhurst,OMOP2786792,RxNorm Extension
+35785319,0.3 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2786780,RxNorm Extension
+35785307,0.3 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] by Dowelhurst,OMOP2786768,RxNorm Extension
+35785286,0.3 ML Epoetin Alfa 10000 UNT/ML Injectable Solution,OMOP2786747,RxNorm Extension
+35785253,0.3 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP2786714,RxNorm Extension
+35785219,0.3 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex],OMOP2786680,RxNorm Extension
+35785212,0.3 ML Epoetin Alfa 10000 UNT/ML Injectable Solution Box of 6,OMOP2786673,RxNorm Extension
+35785204,0.3 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] Box of 6 by Sandoz,OMOP2786665,RxNorm Extension
+35785161,0.3 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP2786622,RxNorm Extension
+35785160,0.3 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] by Sandoz,OMOP2786621,RxNorm Extension
+35785153,0.3 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit] Box of 6,OMOP2786614,RxNorm Extension
+35785137,0.3 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit],OMOP2786598,RxNorm Extension
+35778099,1 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Binocrit] Box of 6 by Sandoz,OMOP2779560,RxNorm Extension
+35777974,1 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Binocrit],OMOP2779435,RxNorm Extension
+35777815,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] by Janssen,OMOP2779276,RxNorm Extension
+35777814,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 1 by Sandoz,OMOP2779275,RxNorm Extension
+35777813,1 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP2779274,RxNorm Extension
+35777683,1 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Binocrit],OMOP2779144,RxNorm Extension
+35777229,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 1 by Janssen,OMOP2778690,RxNorm Extension
+35777099,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Binocrit] Box of 1,OMOP2778560,RxNorm Extension
+43611935,0.4 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 6,OMOP716623,RxNorm Extension
+43611910,0.3 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 6,OMOP715873,RxNorm Extension
+43608450,1 ML Epoetin Alfa 0.336 MG/ML Injectable Solution,OMOP738856,RxNorm Extension
+43597690,0.75 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] Box of 4,OMOP721508,RxNorm Extension
+43594228,0.8 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 4,OMOP721646,RxNorm Extension
+43594227,0.8 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] by Janssen,OMOP721645,RxNorm Extension
+43594071,0.5 ML Epoetin Alfa 0.0336 MG/ML Injectable Solution,OMOP718368,RxNorm Extension
+43590463,1 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP738865,RxNorm Extension
+43587943,Epoetin Alfa 0.0168 MG/ML Injectable Solution,OMOP690870,RxNorm Extension
+43587942,Epoetin Alfa 0.336 MG/ML Injectable Solution Box of 4,OMOP690863,RxNorm Extension
+43587941,Epoetin Alfa 0.336 MG/ML Injectable Solution,OMOP690862,RxNorm Extension
+43520171,0.75 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2807286,RxNorm Extension
+43520164,0.75 ML Epoetin Alfa 40000 UNT/ML Injectable Solution Box of 6,OMOP2807279,RxNorm Extension
+43519187,0.5 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2806302,RxNorm Extension
+43519134,0.5 ML Epoetin Alfa 40000 UNT/ML Injectable Solution Box of 6,OMOP2806249,RxNorm Extension
+43514894,Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2802009,RxNorm Extension
+43275146,Epoetin Alfa 40000 UNT/ML Injectable Solution,OMOP572765,RxNorm Extension
+43038753,1 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP4853792,RxNorm Extension
+43038752,1 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex] Box of 6,OMOP4853791,RxNorm Extension
+43038751,1 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex],OMOP4853790,RxNorm Extension
+43038750,1 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Eprex] by Janssen,OMOP4853789,RxNorm Extension
+43038749,1 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Eprex],OMOP4853788,RxNorm Extension
+43038107,0.8 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP4853147,RxNorm Extension
+43038106,0.8 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex] Box of 6,OMOP4853146,RxNorm Extension
+43038105,0.8 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex],OMOP4853145,RxNorm Extension
+43038083,0.75 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Eprex] by Janssen,OMOP4853123,RxNorm Extension
+43038082,0.75 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Eprex],OMOP4853122,RxNorm Extension
+43038049,0.6 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP4853089,RxNorm Extension
+43038048,0.6 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex] Box of 6,OMOP4853088,RxNorm Extension
+43038047,0.6 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex],OMOP4853087,RxNorm Extension
+43037935,0.5 ML Epoetin Alfa 0.0168 MG/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP4852976,RxNorm Extension
+43037934,0.5 ML Epoetin Alfa 0.0168 MG/ML Injectable Solution [Eprex] Box of 6,OMOP4852975,RxNorm Extension
+43037933,0.5 ML Epoetin Alfa 0.0168 MG/ML Injectable Solution [Eprex],OMOP4852974,RxNorm Extension
+43037932,0.5 ML Epoetin Alfa 0.0336 MG/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP4852973,RxNorm Extension
+43037931,0.5 ML Epoetin Alfa 0.0336 MG/ML Injectable Solution [Eprex] Box of 6,OMOP4852972,RxNorm Extension
+43037930,0.5 ML Epoetin Alfa 0.0336 MG/ML Injectable Solution [Eprex],OMOP4852971,RxNorm Extension
+43037929,0.5 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP4852970,RxNorm Extension
+43037928,0.5 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex] Box of 6,OMOP4852969,RxNorm Extension
+43037927,0.5 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex],OMOP4852968,RxNorm Extension
+43037926,0.5 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Eprex] by Janssen,OMOP4852967,RxNorm Extension
+43037925,0.5 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Eprex],OMOP4852966,RxNorm Extension
+43037825,0.4 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP4852867,RxNorm Extension
+43037824,0.4 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex] Box of 6,OMOP4852866,RxNorm Extension
+43037823,0.4 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex],OMOP4852865,RxNorm Extension
+43037791,0.3 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP4852833,RxNorm Extension
+43037790,0.3 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex] Box of 6,OMOP4852832,RxNorm Extension
+43037789,0.3 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex],OMOP4852831,RxNorm Extension
+43033826,Epoetin Alfa 0.0168 MG/ML Injectable Solution [Eprex] Box of 6,OMOP4848870,RxNorm Extension
+43033825,Epoetin Alfa 0.0168 MG/ML Injectable Solution [Eprex],OMOP4848869,RxNorm Extension
+43033824,Epoetin Alfa 0.0336 MG/ML Injectable Solution [Eprex] Box of 6,OMOP4848868,RxNorm Extension
+43033823,Epoetin Alfa 0.0336 MG/ML Injectable Solution [Eprex],OMOP4848867,RxNorm Extension
+43033822,Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex] Box of 6,OMOP4848866,RxNorm Extension
+43033821,Epoetin Alfa 0.084 MG/ML Injectable Solution [Eprex],OMOP4848865,RxNorm Extension
+43033820,Epoetin Alfa 0.336 MG/ML Injectable Solution [Eprex],OMOP4848864,RxNorm Extension
+41410252,0.5 ML Epoetin Alfa 2 UNT/ML Injectable Solution [Eprex] Box of 6 by Emra-Med,OMOP2608214,RxNorm Extension
+41410163,0.5 ML Epoetin Alfa 2 UNT/ML Injectable Solution [Eprex],OMOP2608125,RxNorm Extension
+41409015,0.5 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Erypo],OMOP2606977,RxNorm Extension
+41408489,0.5 ML Epoetin Alfa 2 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2606451,RxNorm Extension
+41408307,0.5 ML Epoetin Alfa 2 UNT/ML Injectable Solution [Erypo],OMOP2606269,RxNorm Extension
+41407890,0.5 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2605852,RxNorm Extension
+41407819,0.5 ML Epoetin Alfa 2 UNT/ML Injectable Solution Box of 6,OMOP2605781,RxNorm Extension
+41407477,0.5 ML Epoetin Alfa 2 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2605439,RxNorm Extension
+41407361,0.5 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP2605323,RxNorm Extension
+41407359,0.5 ML Epoetin Alfa 2 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP2605321,RxNorm Extension
+41407223,0.5 ML Epoetin Alfa 2 UNT/ML Injectable Solution,OMOP2605185,RxNorm Extension
+41372722,10 ML Epoetin Alfa 5 UNT/ML Injectable Solution,OMOP2570684,RxNorm Extension
+41367401,10 ML Epoetin Alfa 5 UNT/ML Injectable Solution Box of 1,OMOP2565363,RxNorm Extension
+41359364,5 ML Epoetin Alfa 20 UNT/ML Injectable Solution Box of 1,OMOP2557326,RxNorm Extension
+41352351,5 ML Epoetin Alfa 20 UNT/ML Injectable Solution,OMOP2550313,RxNorm Extension
+41338109,1 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP2536071,RxNorm Extension
+41338106,1 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP2536068,RxNorm Extension
+41338104,1 ML Epoetin Alfa 2 UNT/ML Injectable Solution [Eprex] Box of 6 by Emra-Med,OMOP2536066,RxNorm Extension
+41337874,1 ML Epoetin Alfa 4 UNT/ML Injectable Solution [Erypo],OMOP2535836,RxNorm Extension
+41336964,1 ML Epoetin Alfa 10000 UNT/ML Injectable Solution Box of 6,OMOP2534926,RxNorm Extension
+41336963,1 ML Epoetin Alfa 4 UNT/ML Injectable Solution Box of 6,OMOP2534925,RxNorm Extension
+41336812,1 ML Epoetin Alfa 4 UNT/ML Injectable Solution [Eprex] Box of 6 by Emra-Med,OMOP2534774,RxNorm Extension
+41336603,1 ML Epoetin Alfa 4 UNT/ML Injectable Solution [Erypo] Box of 1,OMOP2534565,RxNorm Extension
+41335933,1 ML Epoetin Alfa 2 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2533895,RxNorm Extension
+41335932,1 ML Epoetin Alfa 4 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2533894,RxNorm Extension
+41335643,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution Box of 6,OMOP2533605,RxNorm Extension
+41335642,1 ML Epoetin Alfa 2 UNT/ML Injectable Solution,OMOP2533604,RxNorm Extension
+41335492,1 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Erypo] Box of 6 by Mtk,OMOP2533454,RxNorm Extension
+41335249,1 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Erypo],OMOP2533211,RxNorm Extension
+41335247,1 ML Epoetin Alfa 10 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2533209,RxNorm Extension
+41334967,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution,OMOP2532929,RxNorm Extension
+41334580,1 ML Epoetin Alfa 40 UNT/ML Injectable Solution [Eprex] Box of 4,OMOP2532542,RxNorm Extension
+41334579,1 ML Epoetin Alfa 40 UNT/ML Injectable Solution [Erypo] Box of 4,OMOP2532541,RxNorm Extension
+41334578,1 ML Epoetin Alfa 40 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2532540,RxNorm Extension
+41334576,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex],OMOP2532538,RxNorm Extension
+41334575,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 1,OMOP2532537,RxNorm Extension
+41334574,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Erypo] Box of 4,OMOP2532536,RxNorm Extension
+41334573,1 ML Epoetin Alfa 10 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2532535,RxNorm Extension
+41334571,1 ML Epoetin Alfa 2 UNT/ML Injectable Solution [Erypo],OMOP2532533,RxNorm Extension
+41334570,1 ML Epoetin Alfa 2 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2532532,RxNorm Extension
+41334309,1 ML Epoetin Alfa 4 UNT/ML Injectable Solution Box of 1,OMOP2532271,RxNorm Extension
+41333630,1 ML Epoetin Alfa 40 UNT/ML Injectable Solution Box of 1,OMOP2531592,RxNorm Extension
+41333628,1 ML Epoetin Alfa 10 UNT/ML Injectable Solution,OMOP2531590,RxNorm Extension
+41333627,1 ML Epoetin Alfa 10 UNT/ML Injectable Solution Box of 6,OMOP2531589,RxNorm Extension
+41333437,1 ML Epoetin Alfa 4000 UNT/ML Injectable Solution [Erypo] Box of 6 by Mtk,OMOP2531399,RxNorm Extension
+41332914,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution Box of 1,OMOP2530876,RxNorm Extension
+41332913,1 ML Epoetin Alfa 2000 UNT/ML Injectable Solution,OMOP2530875,RxNorm Extension
+41332531,1 ML Epoetin Alfa 40 UNT/ML Injectable Solution [Eprex],OMOP2530493,RxNorm Extension
+41332253,1 ML Epoetin Alfa 2 UNT/ML Injectable Solution Box of 6,OMOP2530215,RxNorm Extension
+41332069,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 1 by Kohlpharma,OMOP2530031,RxNorm Extension
+41332065,1 ML Epoetin Alfa 4 UNT/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP2530027,RxNorm Extension
+41331844,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Erypo] Box of 1,OMOP2529806,RxNorm Extension
+41331842,1 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2529804,RxNorm Extension
+41331841,1 ML Epoetin Alfa 2 UNT/ML Injectable Solution [Eprex],OMOP2529803,RxNorm Extension
+41331840,1 ML Epoetin Alfa 4 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2529802,RxNorm Extension
+41331400,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Erypo] Box of 4 by Janssen,OMOP2529362,RxNorm Extension
+41331167,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2529129,RxNorm Extension
+41330892,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution Box of 4,OMOP2528854,RxNorm Extension
+41330891,1 ML Epoetin Alfa 4 UNT/ML Injectable Solution,OMOP2528853,RxNorm Extension
+41330890,1 ML Epoetin Alfa 4000 UNT/ML Injectable Solution,OMOP2528852,RxNorm Extension
+41330735,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP2528697,RxNorm Extension
+41330526,1 ML Epoetin Alfa 40 UNT/ML Injectable Solution [Erypo] Box of 1,OMOP2528488,RxNorm Extension
+41330277,1 ML Epoetin Alfa 40 UNT/ML Injectable Solution,OMOP2528239,RxNorm Extension
+41330276,1 ML Epoetin Alfa 10000 UNT/ML Injectable Solution,OMOP2528238,RxNorm Extension
+41330274,1 ML Epoetin Alfa 2000 UNT/ML Injectable Solution Box of 6,OMOP2528236,RxNorm Extension
+41330273,1 ML Epoetin Alfa 4000 UNT/ML Injectable Solution Box of 6,OMOP2528235,RxNorm Extension
+41330110,1 ML Epoetin Alfa 4000 UNT/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP2528072,RxNorm Extension
+41329886,1 ML Epoetin Alfa 40 UNT/ML Injectable Solution [Erypo],OMOP2527848,RxNorm Extension
+41329885,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Erypo],OMOP2527847,RxNorm Extension
+41329203,1 ML Epoetin Alfa 40 UNT/ML Injectable Solution [Eprex] Box of 1,OMOP2527165,RxNorm Extension
+41329198,1 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Erypo],OMOP2527160,RxNorm Extension
+41329197,1 ML Epoetin Alfa 4 UNT/ML Injectable Solution [Eprex],OMOP2527159,RxNorm Extension
+41328563,1 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2526525,RxNorm Extension
+41328560,1 ML Epoetin Alfa 4000 UNT/ML Injectable Solution [Erypo],OMOP2526522,RxNorm Extension
+41328271,1 ML Epoetin Alfa 40 UNT/ML Injectable Solution Box of 6,OMOP2526233,RxNorm Extension
+41328116,1 ML Epoetin Alfa 40000 UNT/ML Injectable Solution [Erypo] Box of 1 by Janssen,OMOP2526078,RxNorm Extension
+41327886,1 ML Epoetin Alfa 10 UNT/ML Injectable Solution [Eprex],OMOP2525848,RxNorm Extension
+41327885,1 ML Epoetin Alfa 10 UNT/ML Injectable Solution [Erypo],OMOP2525847,RxNorm Extension
+41327882,1 ML Epoetin Alfa 4000 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2525844,RxNorm Extension
+41327631,1 ML Epoetin Alfa 40 UNT/ML Injectable Solution Box of 4,OMOP2525593,RxNorm Extension
+41314576,Epoetin Alfa 40 UNT/ML Injectable Solution [Erypo] Box of 4,OMOP2512538,RxNorm Extension
+41314575,Epoetin Alfa 40 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2512537,RxNorm Extension
+41314574,Epoetin Alfa 40000 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2512536,RxNorm Extension
+41314572,Epoetin Alfa 4000 UNT/ML Injectable Solution [Erypo],OMOP2512534,RxNorm Extension
+41304239,Epoetin Alfa 40000 UNT/ML Injectable Solution Box of 6,OMOP2502201,RxNorm Extension
+41283284,Epoetin Alfa 2 UNT/ML Injectable Solution [Eprex],OMOP2481246,RxNorm Extension
+41273169,Epoetin Alfa 20 UNT/ML Injectable Solution,OMOP2471131,RxNorm Extension
+41252366,Epoetin Alfa 2 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2450328,RxNorm Extension
+41221376,Epoetin Alfa 10 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2419338,RxNorm Extension
+41221373,Epoetin Alfa 4 UNT/ML Injectable Solution [Erypo],OMOP2419335,RxNorm Extension
+41211390,Epoetin Alfa 40 UNT/ML Injectable Solution Box of 4,OMOP2409352,RxNorm Extension
+41211389,Epoetin Alfa 10 UNT/ML Injectable Solution Box of 6,OMOP2409351,RxNorm Extension
+41190224,Epoetin Alfa 10000 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2388186,RxNorm Extension
+41190220,Epoetin Alfa 10 UNT/ML Injectable Solution [Eprex],OMOP2388182,RxNorm Extension
+41179942,Epoetin Alfa 5 UNT/ML Injectable Solution Box of 1,OMOP2377904,RxNorm Extension
+41159095,Epoetin Alfa 40000 UNT/ML Injectable Solution [Erypo] Box of 1,OMOP2357057,RxNorm Extension
+41148865,Epoetin Alfa 40000 UNT/ML Injectable Solution Box of 1,OMOP2346827,RxNorm Extension
+41127613,Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex],OMOP2325575,RxNorm Extension
+41127612,Epoetin Alfa 40000 UNT/ML Injectable Solution [Erypo],OMOP2325574,RxNorm Extension
+41117382,Epoetin Alfa 40 UNT/ML Injectable Solution Box of 1,OMOP2315344,RxNorm Extension
+41064772,Epoetin Alfa 2 UNT/ML Injectable Solution [Erypo],OMOP2262734,RxNorm Extension
+41033638,Epoetin Alfa 40000 UNT/ML Injectable Solution [Erypo] Box of 4,OMOP2231600,RxNorm Extension
+41033635,Epoetin Alfa 4 UNT/ML Injectable Solution [Eprex],OMOP2231597,RxNorm Extension
+41019355,Epoetin Alfa Injectable Solution [Erypo],OMOP2217317,RxNorm Extension
+41002546,Epoetin Alfa 10 UNT/ML Injectable Solution [Erypo],OMOP2200508,RxNorm Extension
+41002543,Epoetin Alfa 4 UNT/ML Injectable Solution [Erypo] Box of 1,OMOP2200505,RxNorm Extension
+40992393,Epoetin Alfa 40 UNT/ML Injectable Solution,OMOP2190355,RxNorm Extension
+40992392,Epoetin Alfa 10 UNT/ML Injectable Solution,OMOP2190354,RxNorm Extension
+40992390,Epoetin Alfa 4 UNT/ML Injectable Solution Box of 6,OMOP2190352,RxNorm Extension
+40992389,Epoetin Alfa 4000 UNT/ML Injectable Solution Box of 6,OMOP2190351,RxNorm Extension
+40971165,Epoetin Alfa 40 UNT/ML Injectable Solution [Eprex] Box of 4,OMOP2169127,RxNorm Extension
+40961136,Epoetin Alfa 40000 UNT/ML Injectable Solution Box of 4,OMOP2159098,RxNorm Extension
+40961135,Epoetin Alfa 2 UNT/ML Injectable Solution Box of 6,OMOP2159097,RxNorm Extension
+40940180,Epoetin Alfa 40 UNT/ML Injectable Solution [Eprex],OMOP2138142,RxNorm Extension
+40940178,Epoetin Alfa 2000 UNT/ML Injectable Solution [Erypo],OMOP2138140,RxNorm Extension
+40929800,Epoetin Alfa 5 UNT/ML Injectable Solution,OMOP2127762,RxNorm Extension
+40908918,Epoetin Alfa 40 UNT/ML Injectable Solution [Erypo],OMOP2106880,RxNorm Extension
+40908917,Epoetin Alfa 40 UNT/ML Injectable Solution [Erypo] Box of 1,OMOP2106879,RxNorm Extension
+40908915,Epoetin Alfa 2 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2106877,RxNorm Extension
+40908913,Epoetin Alfa 4000 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2106875,RxNorm Extension
+40877877,Epoetin Alfa 10000 UNT/ML Injectable Solution [Erypo],OMOP2075839,RxNorm Extension
+40877876,Epoetin Alfa 40000 UNT/ML Injectable Solution [Eprex] Box of 1,OMOP2075838,RxNorm Extension
+40877874,Epoetin Alfa 2000 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2075836,RxNorm Extension
+40867610,Epoetin Alfa 2 UNT/ML Injectable Solution,OMOP2065572,RxNorm Extension
+40867609,Epoetin Alfa 4 UNT/ML Injectable Solution,OMOP2065571,RxNorm Extension
+40867608,Epoetin Alfa 4 UNT/ML Injectable Solution Box of 1,OMOP2065570,RxNorm Extension
+40867600,Epoetin Alfa 20 UNT/ML Injectable Solution Box of 1,OMOP2065562,RxNorm Extension
+40846754,Epoetin Alfa 40 UNT/ML Injectable Solution [Eprex] Box of 1,OMOP2044716,RxNorm Extension
+40846750,Epoetin Alfa 10 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2044712,RxNorm Extension
+40846746,Epoetin Alfa 4 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP2044708,RxNorm Extension
+40846745,Epoetin Alfa 4 UNT/ML Injectable Solution [Erypo] Box of 6,OMOP2044707,RxNorm Extension
+40836531,Epoetin Alfa 40 UNT/ML Injectable Solution Box of 6,OMOP2034493,RxNorm Extension
+40836527,Epoetin Alfa 4000 UNT/ML Injectable Solution,OMOP2034489,RxNorm Extension
+40038947,epoetin alfa Injectable Solution [Procrit],93868,RxNorm
+40038946,epoetin alfa Injectable Solution [Eprex],385885,RxNorm
+44132965,0.8 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex Solution Ml],OMOP1127596,RxNorm Extension
+44132946,0.8 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex Solution Ml] Box of 6 by Janssen,OMOP1127577,RxNorm Extension
+44132945,0.8 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex Solution Ml] Box of 6,OMOP1127576,RxNorm Extension
+44132919,0.6 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex Solution Ml],OMOP1127550,RxNorm Extension
+44132901,0.6 ML Epoetin Alfa 10000 UNT/ML Injectable Solution Box of 6,OMOP1127532,RxNorm Extension
+44132895,0.6 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex Solution Ml] Box of 6 by Janssen,OMOP1127526,RxNorm Extension
+44132894,0.6 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex Solution Ml] Box of 6,OMOP1127525,RxNorm Extension
+44132892,0.6 ML Epoetin Alfa 10000 UNT/ML Injectable Solution,OMOP1127523,RxNorm Extension
+44132883,0.5 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP1127514,RxNorm Extension
+44132847,0.5 ML Epoetin Alfa 10000 UNT/ML Injectable Solution Box of 6,OMOP1127478,RxNorm Extension
+44132760,0.5 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex],OMOP1127391,RxNorm Extension
+44132700,0.5 ML Epoetin Alfa 2000 UNT/ML Injectable Solution Box of 6,OMOP1127331,RxNorm Extension
+44132655,0.5 ML Epoetin Alfa 10000 UNT/ML Injectable Solution,OMOP1127286,RxNorm Extension
+44132626,0.5 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP1127257,RxNorm Extension
+44132598,0.5 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP1127229,RxNorm Extension
+44132585,0.5 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP1127216,RxNorm Extension
+44132540,0.5 ML Epoetin Alfa 2000 UNT/ML Injectable Solution [Eprex],OMOP1127171,RxNorm Extension
+44132507,0.5 ML Epoetin Alfa 2000 UNT/ML Injectable Solution,OMOP1127138,RxNorm Extension
+44132506,0.4 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP1127137,RxNorm Extension
+44132505,0.4 ML Epoetin Alfa 10000 UNT/ML Injectable Solution,OMOP1127136,RxNorm Extension
+44132502,0.4 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex],OMOP1127133,RxNorm Extension
+44132494,0.4 ML Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6 by Janssen,OMOP1127125,RxNorm Extension
+44132493,0.4 ML Epoetin Alfa 10000 UNT/ML Injectable Solution Box of 6,OMOP1127124,RxNorm Extension
+44121904,Epoetin Alfa Injectable Solution [Eprex Solution Ml],OMOP1116535,RxNorm Extension
+44112251,Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex Solution Ml] Box of 6,OMOP1106882,RxNorm Extension
+44112249,Epoetin Alfa 2000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP1106880,RxNorm Extension
+44099469,Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex Solution Ml],OMOP1094100,RxNorm Extension
+44084471,Epoetin Alfa 2000 UNT/ML Injectable Solution Box of 6,OMOP1079102,RxNorm Extension
+44073578,Epoetin Alfa 2000 UNT/ML Injectable Solution [Eprex],OMOP1068209,RxNorm Extension
+44060783,Epoetin Alfa 10000 UNT/ML Injectable Solution [Eprex] Box of 6,OMOP1055414,RxNorm Extension
+44058764,Epoetin Alfa 2000 UNT/ML Injectable Solution,OMOP1053395,RxNorm Extension
+44045742,Epoetin Alfa 10000 UNT/ML Injectable Solution Box of 6,OMOP1040373,RxNorm Extension
+43864527,0.8 ML Epoetin Alfa 0.084 MG/ML Injectable Solution Box of 6,OMOP721642,RxNorm Extension
+43864506,0.6 ML Epoetin Alfa 0.084 MG/ML Injectable Solution,OMOP720619,RxNorm Extension
+43864376,0.5 ML Epoetin Alfa 0.0336 MG/ML Injectable Solution [Erypo] Box of 6,OMOP718376,RxNorm Extension
+43864375,0.5 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo],OMOP718352,RxNorm Extension
+43864374,0.5 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo],OMOP718342,RxNorm Extension
+43864373,0.5 ML Epoetin Alfa 0.084 MG/ML Injectable Solution Box of 4,OMOP718339,RxNorm Extension
+43864273,0.4 ML Epoetin Alfa 0.084 MG/ML Injectable Solution Box of 4,OMOP716618,RxNorm Extension
+43860698,1 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] by Janssen,OMOP738851,RxNorm Extension
+43858165,Epoetin Alfa 0.084 MG/ML Injectable Solution,OMOP690856,RxNorm Extension
+43846222,0.6 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP720628,RxNorm Extension
+43846115,0.5 ML Epoetin Alfa 0.0168 MG/ML Injectable Solution Box of 6,OMOP718360,RxNorm Extension
+43846114,0.5 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] Box of 4 by Janssen,OMOP718355,RxNorm Extension
+43846113,0.5 ML Epoetin Alfa 0.336 MG/ML Injectable Solution Box of 4,OMOP718349,RxNorm Extension
+43846112,0.5 ML Epoetin Alfa 0.084 MG/ML Injectable Solution Box of 6,OMOP718341,RxNorm Extension
+43842542,1 ML Epoetin Alfa 0.336 MG/ML Injectable Solution Box of 4,OMOP738858,RxNorm Extension
+43842541,1 ML Epoetin Alfa 0.084 MG/ML Injectable Solution Box of 4,OMOP738848,RxNorm Extension
+43840107,Epoetin Alfa 0.0336 MG/ML Injectable Solution [Erypo],OMOP690881,RxNorm Extension
+43840106,Epoetin Alfa 0.0336 MG/ML Injectable Solution Box of 4,OMOP690879,RxNorm Extension
+43831689,0.75 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] Box of 6,OMOP721510,RxNorm Extension
+43828067,0.5 ML Epoetin Alfa 0.084 MG/ML Injectable Solution,OMOP718338,RxNorm Extension
+43827981,0.4 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] by Janssen,OMOP716770,RxNorm Extension
+43827980,0.4 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo],OMOP716769,RxNorm Extension
+43827944,0.3 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP715874,RxNorm Extension
+43827943,0.3 ML Epoetin Alfa 0.084 MG/ML Injectable Solution,OMOP715866,RxNorm Extension
+43824460,1 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] Box of 4 by Janssen,OMOP738863,RxNorm Extension
+43824459,1 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo],OMOP738850,RxNorm Extension
+43821978,Epoetin Alfa 0.084 MG/ML Injectable Solution Box of 4,OMOP690885,RxNorm Extension
+43821977,Epoetin Alfa 0.0168 MG/ML Injectable Solution Box of 4,OMOP690871,RxNorm Extension
+43810135,0.8 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 6,OMOP721648,RxNorm Extension
+43810106,0.6 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 6,OMOP720627,RxNorm Extension
+43810105,0.6 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 4,OMOP720624,RxNorm Extension
+43809992,0.5 ML Epoetin Alfa 0.0336 MG/ML Injectable Solution [Erypo],OMOP718371,RxNorm Extension
+43809991,0.5 ML Epoetin Alfa 0.0168 MG/ML Injectable Solution,OMOP718358,RxNorm Extension
+43809990,0.5 ML Epoetin Alfa 0.336 MG/ML Injectable Solution,OMOP718348,RxNorm Extension
+43809989,0.5 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP718347,RxNorm Extension
+43809861,0.3 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 4 by Janssen,OMOP715872,RxNorm Extension
+43806293,1 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] Box of 6,OMOP738864,RxNorm Extension
+43806292,1 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 4,OMOP738852,RxNorm Extension
+43806291,1 ML Epoetin Alfa 0.084 MG/ML Injectable Solution,OMOP738847,RxNorm Extension
+43791966,0.8 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP721649,RxNorm Extension
+43791965,0.8 ML Epoetin Alfa 0.084 MG/ML Injectable Solution,OMOP721640,RxNorm Extension
+43791952,0.6 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo],OMOP720622,RxNorm Extension
+43791832,0.5 ML Epoetin Alfa 0.0168 MG/ML Injectable Solution Box of 4,OMOP718359,RxNorm Extension
+43777645,0.75 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] Box of 4 by Janssen,OMOP721509,RxNorm Extension
+43774210,0.8 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo],OMOP721644,RxNorm Extension
+43774044,0.5 ML Epoetin Alfa 0.0336 MG/ML Injectable Solution [Erypo] by Janssen,OMOP718372,RxNorm Extension
+43774043,0.5 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] Box of 6,OMOP718356,RxNorm Extension
+43774042,0.5 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] by Janssen,OMOP718353,RxNorm Extension
+43774041,0.5 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 6,OMOP718346,RxNorm Extension
+43770416,1 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo],OMOP738860,RxNorm Extension
+43770415,1 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 4 by Janssen,OMOP738853,RxNorm Extension
+43767869,Epoetin Alfa 0.0168 MG/ML Injectable Solution [Erypo],OMOP690873,RxNorm Extension
+43767868,Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo],OMOP690865,RxNorm Extension
+43756011,0.5 ML Epoetin Alfa 0.0336 MG/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP718377,RxNorm Extension
+43756010,0.5 ML Epoetin Alfa 0.0336 MG/ML Injectable Solution [Erypo] Box of 4,OMOP718374,RxNorm Extension
+43756009,0.5 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] Box of 4,OMOP718354,RxNorm Extension
+43755907,0.4 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 4 by Janssen,OMOP716622,RxNorm Extension
+43755875,0.3 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo],OMOP715870,RxNorm Extension
+43752357,1 ML Epoetin Alfa 0.336 MG/ML Injectable Solution Box of 6,OMOP738859,RxNorm Extension
+43752356,1 ML Epoetin Alfa 0.084 MG/ML Injectable Solution Box of 6,OMOP738849,RxNorm Extension
+43749868,Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] Box of 6,OMOP690867,RxNorm Extension
+43738201,0.8 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 4 by Janssen,OMOP721647,RxNorm Extension
+43738082,0.5 ML Epoetin Alfa 0.0168 MG/ML Injectable Solution [Erypo] Box of 4 by Janssen,OMOP718365,RxNorm Extension
+43737979,0.4 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP716624,RxNorm Extension
+43731937,Epoetin Alfa 0.0336 MG/ML Injectable Solution [Erypo] Box of 4,OMOP690882,RxNorm Extension
+43731936,Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] Box of 4,OMOP690866,RxNorm Extension
+43731935,Epoetin Alfa 0.336 MG/ML Injectable Solution Box of 6,OMOP690864,RxNorm Extension
+43731933,Epoetin Alfa 0.084 MG/ML Injectable Solution Box of 6,OMOP690857,RxNorm Extension
+43723611,0.75 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] by Janssen,OMOP721507,RxNorm Extension
+43723610,0.75 ML Epoetin Alfa 0.336 MG/ML Injectable Solution,OMOP721502,RxNorm Extension
+43719926,0.5 ML Epoetin Alfa 0.0168 MG/ML Injectable Solution [Erypo] Box of 4,OMOP718364,RxNorm Extension
+43719925,0.5 ML Epoetin Alfa 0.336 MG/ML Injectable Solution Box of 6,OMOP718350,RxNorm Extension
+43716347,1 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] Box of 4,OMOP738862,RxNorm Extension
+43713911,Epoetin Alfa 0.0336 MG/ML Injectable Solution [Erypo] Box of 6,OMOP690883,RxNorm Extension
+43713910,Epoetin Alfa 0.0168 MG/ML Injectable Solution [Erypo] Box of 6,OMOP690875,RxNorm Extension
+43713909,Epoetin Alfa 0.0168 MG/ML Injectable Solution Box of 6,OMOP690872,RxNorm Extension
+43705730,0.75 ML Epoetin Alfa 0.336 MG/ML Injectable Solution Box of 6,OMOP721504,RxNorm Extension
+43702330,0.6 ML Epoetin Alfa 0.084 MG/ML Injectable Solution Box of 4,OMOP720620,RxNorm Extension
+43702113,0.3 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 4,OMOP715871,RxNorm Extension
+43702112,0.3 ML Epoetin Alfa 0.084 MG/ML Injectable Solution Box of 6,OMOP715868,RxNorm Extension
+43698580,1 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 6,OMOP738854,RxNorm Extension
+43696071,Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 6,OMOP690888,RxNorm Extension
+43696070,Epoetin Alfa 0.0336 MG/ML Injectable Solution Box of 6,OMOP690880,RxNorm Extension
+43687802,0.75 ML Epoetin Alfa 0.336 MG/ML Injectable Solution Box of 4,OMOP721503,RxNorm Extension
+43684320,0.6 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] by Janssen,OMOP720623,RxNorm Extension
+43684217,0.5 ML Epoetin Alfa 0.0168 MG/ML Injectable Solution [Erypo],OMOP718361,RxNorm Extension
+43684118,0.4 ML Epoetin Alfa 0.084 MG/ML Injectable Solution Box of 6,OMOP716619,RxNorm Extension
+43678234,Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 4,OMOP690859,RxNorm Extension
+43669920,0.75 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo],OMOP721506,RxNorm Extension
+43666477,0.8 ML Epoetin Alfa 0.084 MG/ML Injectable Solution Box of 4,OMOP721641,RxNorm Extension
+43666455,0.6 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 4 by Janssen,OMOP720625,RxNorm Extension
+43666345,0.5 ML Epoetin Alfa 0.0336 MG/ML Injectable Solution Box of 6,OMOP718370,RxNorm Extension
+43666344,0.5 ML Epoetin Alfa 0.0168 MG/ML Injectable Solution [Erypo] Box of 6,OMOP718366,RxNorm Extension
+43666343,0.5 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 4,OMOP718344,RxNorm Extension
+43662725,1 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP738855,RxNorm Extension
+43660261,Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo],OMOP690858,RxNorm Extension
+43648213,0.5 ML Epoetin Alfa 0.0336 MG/ML Injectable Solution [Erypo] Box of 4 by Janssen,OMOP718375,RxNorm Extension
+43648212,0.5 ML Epoetin Alfa 0.0168 MG/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP718367,RxNorm Extension
+43648136,0.4 ML Epoetin Alfa 0.084 MG/ML Injectable Solution,OMOP716768,RxNorm Extension
+43648128,0.4 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 4,OMOP716620,RxNorm Extension
+43644638,1 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] by Janssen,OMOP738861,RxNorm Extension
+43642112,Epoetin Alfa 0.0336 MG/ML Injectable Solution,OMOP690878,RxNorm Extension
+43633861,0.75 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP721511,RxNorm Extension
+43630266,0.6 ML Epoetin Alfa 0.084 MG/ML Injectable Solution Box of 6,OMOP720621,RxNorm Extension
+43630154,0.5 ML Epoetin Alfa 0.0336 MG/ML Injectable Solution Box of 4,OMOP718369,RxNorm Extension
+43630153,0.5 ML Epoetin Alfa 0.0168 MG/ML Injectable Solution [Erypo] by Janssen,OMOP718363,RxNorm Extension
+43630152,0.5 ML Epoetin Alfa 0.336 MG/ML Injectable Solution [Erypo] Box of 6 by Janssen,OMOP718357,RxNorm Extension
+43630151,0.5 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] Box of 4 by Janssen,OMOP718345,RxNorm Extension
+43630020,0.3 ML Epoetin Alfa 0.084 MG/ML Injectable Solution Box of 4,OMOP715867,RxNorm Extension
+43630007,0.3 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] by Janssen,OMOP715607,RxNorm Extension
+43623856,Epoetin Alfa 0.0168 MG/ML Injectable Solution [Erypo] Box of 4,OMOP690874,RxNorm Extension
+43612032,0.5 ML Epoetin Alfa 0.084 MG/ML Injectable Solution [Erypo] by Janssen,OMOP718343,RxNorm Extension
+35785145,0.3 ML darbepoetin alfa 0.5 MG/ML Injectable Solution,OMOP2786606,RxNorm Extension
+35777940,1 ML darbepoetin alfa 0.5 MG/ML Injectable Solution Box of 1,OMOP2779401,RxNorm Extension
+35777823,1 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp SureClick] Box of 1 by Amgen,OMOP2779284,RxNorm Extension
+35777540,1 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP2779001,RxNorm Extension
+35777394,1 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp],OMOP2778855,RxNorm Extension
+35777393,1 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp] Box of 1,OMOP2778854,RxNorm Extension
+35777068,1 ML darbepoetin alfa 0.5 MG/ML Injectable Solution,OMOP2778529,RxNorm Extension
+35776687,1 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp] Box of 1 by Amgen,OMOP2778148,RxNorm Extension
+35776539,1 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp SureClick],OMOP2778000,RxNorm Extension
+35776125,1 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp SureClick] by Amgen,OMOP2777586,RxNorm Extension
+35775996,1 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp SureClick] Box of 1,OMOP2777457,RxNorm Extension
+35775516,darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp SureClick] Box of 1,OMOP2776977,RxNorm Extension
+35775515,darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp SureClick] Box of 1,OMOP2776976,RxNorm Extension
+35771345,darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp SureClick] Box of 1,OMOP2772806,RxNorm Extension
+35771344,darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2772805,RxNorm Extension
+35770821,darbepoetin alfa 0.04 MG/ML Injectable Solution Box of 4,OMOP2772282,RxNorm Extension
+35770820,darbepoetin alfa 0.025 MG/ML Injectable Solution Box of 4,OMOP2772281,RxNorm Extension
+35767013,darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp SureClick],OMOP2768474,RxNorm Extension
+35767012,darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2768473,RxNorm Extension
+35767011,darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp SureClick],OMOP2768472,RxNorm Extension
+35766504,darbepoetin alfa 0.1 MG/ML Injectable Solution Box of 4,OMOP2767965,RxNorm Extension
+35766503,darbepoetin alfa 0.2 MG/ML Injectable Solution Box of 4,OMOP2767964,RxNorm Extension
+35762405,darbepoetin alfa 0.1 MG/ML Injectable Solution Box of 1,OMOP2763866,RxNorm Extension
+35762404,darbepoetin alfa 0.2 MG/ML Injectable Solution Box of 1,OMOP2763865,RxNorm Extension
+35762154,darbepoetin alfa Injectable Solution [Aranesp SureClick],OMOP2763615,RxNorm Extension
+35754611,darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick],OMOP2756072,RxNorm Extension
+35754610,darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2756071,RxNorm Extension
+35754609,darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2756070,RxNorm Extension
+35754608,darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp SureClick],OMOP2756069,RxNorm Extension
+35754075,darbepoetin alfa 0.5 MG/ML Injectable Solution Box of 4,OMOP2755536,RxNorm Extension
+35746230,darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick] Box of 1,OMOP2747691,RxNorm Extension
+35746229,darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp] Box of 1,OMOP2747690,RxNorm Extension
+35746228,darbepoetin alfa 0.025 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2747689,RxNorm Extension
+35745691,darbepoetin alfa 0.04 MG/ML Injectable Solution Box of 1,OMOP2747152,RxNorm Extension
+19102885,darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp],404686,RxNorm
+19102538,darbepoetin alfa 0.5 MG/ML Injectable Solution,403943,RxNorm
+784082,0.3 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp] Box of 1 by Amgen,OMOP4831909,RxNorm Extension
+784081,0.3 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp] Box of 1,OMOP4831908,RxNorm Extension
+44128621,darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP1123252,RxNorm Extension
+44123526,darbepoetin alfa 0.1 MG/ML Injectable Solution,OMOP1118157,RxNorm Extension
+44115442,darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP1110073,RxNorm Extension
+44110343,darbepoetin alfa 0.2 MG/ML Injectable Solution,OMOP1104974,RxNorm Extension
+44099645,darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp],OMOP1094276,RxNorm Extension
+44099644,darbepoetin alfa 0.025 MG/ML Injectable Solution [Aranesp],OMOP1094275,RxNorm Extension
+44097478,darbepoetin alfa 0.025 MG/ML Injectable Solution,OMOP1092109,RxNorm Extension
+44089615,darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP1084246,RxNorm Extension
+44071675,darbepoetin alfa 0.04 MG/ML Injectable Solution,OMOP1066306,RxNorm Extension
+44060958,darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp],OMOP1055589,RxNorm Extension
+44051011,darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP1045642,RxNorm Extension
+44047955,darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp],OMOP1042586,RxNorm Extension
+44037880,darbepoetin alfa 0.025 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP1032511,RxNorm Extension
+41410922,0.6 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Nespo] Box of 1,OMOP2608884,RxNorm Extension
+41410902,0.6 ML darbepoetin alfa 0.5 MG/ML Injectable Solution,OMOP2608864,RxNorm Extension
+41410754,0.6 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Nespo],OMOP2608716,RxNorm Extension
+41410554,0.6 ML darbepoetin alfa 0.5 MG/ML Injectable Solution Box of 1,OMOP2608516,RxNorm Extension
+41410319,0.6 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Nespo] Box of 1 by Cc,OMOP2608281,RxNorm Extension
+41300523,darbepoetin alfa Injectable Solution [Nespo],OMOP2498485,RxNorm Extension
+40961505,darbepoetin alfa 0.5 MG/ML Injectable Solution Box of 1,OMOP2159467,RxNorm Extension
+40878764,darbepoetin alfa 0.5 MG/ML Injectable Solution [Nespo],OMOP2076726,RxNorm Extension
+40847663,darbepoetin alfa 0.5 MG/ML Injectable Solution [Nespo] Box of 1,OMOP2045625,RxNorm Extension
+40054551,darbepoetin alfa Injectable Solution [Aranesp],362763,RxNorm
+40054550,darbepoetin alfa Injectable Solution,378604,RxNorm
+35794933,0.375 ML darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp] Box of 4 by Amgen,OMOP2796394,RxNorm Extension
+35794932,0.375 ML darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp],OMOP2796393,RxNorm Extension
+35794931,0.375 ML darbepoetin alfa 0.04 MG/ML Injectable Solution,OMOP2796392,RxNorm Extension
+35794930,0.375 ML darbepoetin alfa 0.04 MG/ML Injectable Solution Box of 4,OMOP2796391,RxNorm Extension
+35794929,0.375 ML darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP2796390,RxNorm Extension
+35794928,0.375 ML darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2796389,RxNorm Extension
+35789784,0.65 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick] Box of 1 by Amgen,OMOP2791245,RxNorm Extension
+35789783,0.65 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick] Box of 1,OMOP2791244,RxNorm Extension
+35789780,0.65 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick],OMOP2791241,RxNorm Extension
+35789779,0.65 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2791240,RxNorm Extension
+35789778,0.65 ML darbepoetin alfa 0.2 MG/ML Injectable Solution,OMOP2791239,RxNorm Extension
+35789777,0.65 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick] by Amgen,OMOP2791238,RxNorm Extension
+35789776,0.65 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp] Box of 4 by Amgen,OMOP2791237,RxNorm Extension
+35789773,0.65 ML darbepoetin alfa 0.2 MG/ML Injectable Solution Box of 1,OMOP2791234,RxNorm Extension
+35789772,0.65 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp],OMOP2791233,RxNorm Extension
+35789770,0.65 ML darbepoetin alfa 0.2 MG/ML Injectable Solution Box of 4,OMOP2791231,RxNorm Extension
+35789769,0.65 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP2791230,RxNorm Extension
+35785855,0.6 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp] Box of 1 by Amgen,OMOP2787316,RxNorm Extension
+35785853,0.6 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp],OMOP2787314,RxNorm Extension
+35785852,0.6 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp] Box of 1,OMOP2787313,RxNorm Extension
+35785847,0.6 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP2787308,RxNorm Extension
+35785832,0.6 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp SureClick] by Amgen,OMOP2787293,RxNorm Extension
+35785831,0.6 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp SureClick] Box of 1 by Amgen,OMOP2787292,RxNorm Extension
+35785817,0.6 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp SureClick],OMOP2787278,RxNorm Extension
+35785789,0.6 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp SureClick] Box of 1,OMOP2787250,RxNorm Extension
+35785773,0.5 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP2787234,RxNorm Extension
+35785756,0.5 ML darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2787217,RxNorm Extension
+35785746,0.5 ML darbepoetin alfa 0.04 MG/ML Injectable Solution Box of 4,OMOP2787207,RxNorm Extension
+35785711,0.5 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2787172,RxNorm Extension
+35785696,0.5 ML darbepoetin alfa 0.1 MG/ML Injectable Solution Box of 4,OMOP2787157,RxNorm Extension
+35785695,0.5 ML darbepoetin alfa 0.2 MG/ML Injectable Solution Box of 1,OMOP2787156,RxNorm Extension
+35785683,0.5 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp] Box of 4 by Amgen,OMOP2787144,RxNorm Extension
+35785682,0.5 ML darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp SureClick] Box of 1 by Amgen,OMOP2787143,RxNorm Extension
+35785681,0.5 ML darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP2787142,RxNorm Extension
+35785661,0.5 ML darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp SureClick] Box of 1,OMOP2787122,RxNorm Extension
+35785648,0.5 ML darbepoetin alfa 0.2 MG/ML Injectable Solution,OMOP2787109,RxNorm Extension
+35785647,0.5 ML darbepoetin alfa 0.04 MG/ML Injectable Solution,OMOP2787108,RxNorm Extension
+35785610,0.5 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp],OMOP2787071,RxNorm Extension
+35785597,0.5 ML darbepoetin alfa 0.1 MG/ML Injectable Solution,OMOP2787058,RxNorm Extension
+35785587,0.5 ML darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp] Box of 4 by Amgen,OMOP2787048,RxNorm Extension
+35785553,0.5 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp] Box of 4 by Amgen,OMOP2787014,RxNorm Extension
+35785552,0.5 ML darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp SureClick] by Amgen,OMOP2787013,RxNorm Extension
+35785529,0.5 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick],OMOP2786990,RxNorm Extension
+35785518,0.5 ML darbepoetin alfa 0.2 MG/ML Injectable Solution Box of 4,OMOP2786979,RxNorm Extension
+35785508,0.5 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP2786969,RxNorm Extension
+35785491,0.5 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick] Box of 1,OMOP2786952,RxNorm Extension
+35785490,0.5 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp],OMOP2786951,RxNorm Extension
+35785489,0.5 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2786950,RxNorm Extension
+35785488,0.5 ML darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp],OMOP2786949,RxNorm Extension
+35785468,0.5 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick] by Amgen,OMOP2786929,RxNorm Extension
+35785467,0.5 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick] Box of 1 by Amgen,OMOP2786928,RxNorm Extension
+35785450,0.5 ML darbepoetin alfa 0.04 MG/ML Injectable Solution [Aranesp SureClick],OMOP2786911,RxNorm Extension
+35785439,0.5 ML darbepoetin alfa 0.04 MG/ML Injectable Solution Box of 1,OMOP2786900,RxNorm Extension
+35785421,0.4 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp],OMOP2786882,RxNorm Extension
+35785420,0.4 ML darbepoetin alfa 0.025 MG/ML Injectable Solution [Aranesp],OMOP2786881,RxNorm Extension
+35785413,0.4 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp] Box of 4 by Amgen,OMOP2786874,RxNorm Extension
+35785412,0.4 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick] by Amgen,OMOP2786873,RxNorm Extension
+35785411,0.4 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick] Box of 1 by Amgen,OMOP2786872,RxNorm Extension
+35785410,0.4 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP2786871,RxNorm Extension
+35785403,0.4 ML darbepoetin alfa 0.025 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2786864,RxNorm Extension
+35785398,0.4 ML darbepoetin alfa 0.2 MG/ML Injectable Solution Box of 4,OMOP2786859,RxNorm Extension
+35785390,0.4 ML darbepoetin alfa 0.025 MG/ML Injectable Solution,OMOP2786851,RxNorm Extension
+35785388,0.4 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp SureClick] Box of 1 by Amgen,OMOP2786849,RxNorm Extension
+35785381,0.4 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2786842,RxNorm Extension
+35785377,0.4 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP2786838,RxNorm Extension
+35785374,0.4 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2786835,RxNorm Extension
+35785370,0.4 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp] Box of 4 by Amgen,OMOP2786831,RxNorm Extension
+35785361,0.4 ML darbepoetin alfa 0.2 MG/ML Injectable Solution,OMOP2786822,RxNorm Extension
+35785360,0.4 ML darbepoetin alfa 0.025 MG/ML Injectable Solution Box of 4,OMOP2786821,RxNorm Extension
+35785354,0.4 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp SureClick] by Amgen,OMOP2786815,RxNorm Extension
+35785353,0.4 ML darbepoetin alfa 0.025 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP2786814,RxNorm Extension
+35785350,0.4 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp SureClick],OMOP2786811,RxNorm Extension
+35785349,0.4 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp SureClick] Box of 1,OMOP2786810,RxNorm Extension
+35785348,0.4 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick],OMOP2786809,RxNorm Extension
+35785347,0.4 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp],OMOP2786808,RxNorm Extension
+35785346,0.4 ML darbepoetin alfa 0.1 MG/ML Injectable Solution,OMOP2786807,RxNorm Extension
+35785345,0.4 ML darbepoetin alfa 0.1 MG/ML Injectable Solution Box of 1,OMOP2786806,RxNorm Extension
+35785342,0.4 ML darbepoetin alfa 0.025 MG/ML Injectable Solution [Aranesp] Box of 4 by Amgen,OMOP2786803,RxNorm Extension
+35785340,0.4 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick] Box of 1,OMOP2786801,RxNorm Extension
+35785338,0.4 ML darbepoetin alfa 0.1 MG/ML Injectable Solution Box of 4,OMOP2786799,RxNorm Extension
+35785337,0.4 ML darbepoetin alfa 0.2 MG/ML Injectable Solution Box of 1,OMOP2786798,RxNorm Extension
+35785334,0.3 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick] by Amgen,OMOP2786795,RxNorm Extension
+35785333,0.3 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp SureClick] by Amgen,OMOP2786794,RxNorm Extension
+35785332,0.3 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp] Box of 4 by Amgen,OMOP2786793,RxNorm Extension
+35785321,0.3 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick],OMOP2786782,RxNorm Extension
+35785320,0.3 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2786781,RxNorm Extension
+35785316,0.3 ML darbepoetin alfa 0.1 MG/ML Injectable Solution,OMOP2786777,RxNorm Extension
+35785315,0.3 ML darbepoetin alfa 0.2 MG/ML Injectable Solution,OMOP2786776,RxNorm Extension
+35785309,0.3 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP2786770,RxNorm Extension
+35785308,0.3 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP2786769,RxNorm Extension
+35785299,0.3 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2786760,RxNorm Extension
+35785287,0.3 ML darbepoetin alfa 0.2 MG/ML Injectable Solution Box of 4,OMOP2786748,RxNorm Extension
+35785281,0.3 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp] Box of 4 by Amgen,OMOP2786742,RxNorm Extension
+35785272,0.3 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick] Box of 1,OMOP2786733,RxNorm Extension
+35785271,0.3 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp],OMOP2786732,RxNorm Extension
+35785270,0.3 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp SureClick] Box of 1,OMOP2786731,RxNorm Extension
+35785255,0.3 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp] Box of 4 by Amgen,OMOP2786716,RxNorm Extension
+35785254,0.3 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp SureClick] Box of 1 by Amgen,OMOP2786715,RxNorm Extension
+35785243,0.3 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp],OMOP2786704,RxNorm Extension
+35785242,0.3 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp SureClick],OMOP2786703,RxNorm Extension
+35785241,0.3 ML darbepoetin alfa 0.5 MG/ML Injectable Solution [Aranesp],OMOP2786702,RxNorm Extension
+35785236,0.3 ML darbepoetin alfa 0.5 MG/ML Injectable Solution Box of 1,OMOP2786697,RxNorm Extension
+35785220,0.3 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp] Box of 4,OMOP2786681,RxNorm Extension
+35785214,0.3 ML darbepoetin alfa 0.2 MG/ML Injectable Solution Box of 1,OMOP2786675,RxNorm Extension
+35785213,0.3 ML darbepoetin alfa 0.5 MG/ML Injectable Solution Box of 4,OMOP2786674,RxNorm Extension
+35785185,0.3 ML darbepoetin alfa 0.1 MG/ML Injectable Solution Box of 4,OMOP2786646,RxNorm Extension
+35785182,0.3 ML darbepoetin alfa 0.2 MG/ML Injectable Solution [Aranesp SureClick] Box of 1 by Amgen,OMOP2786643,RxNorm Extension
+35785162,0.3 ML darbepoetin alfa 0.1 MG/ML Injectable Solution [Aranesp] by Amgen,OMOP2786623,RxNorm Extension
+46234271,darbepoetin alfa 0.2 MG/ML Injection [Aranesp],1654957,RxNorm
+46234270,darbepoetin alfa 0.2 MG/ML Injection,1654956,RxNorm
+46234269,1 ML darbepoetin alfa 0.2 MG/ML Injection [Aranesp],1654955,RxNorm
+46234268,1 ML darbepoetin alfa 0.2 MG/ML Injection,1654954,RxNorm
+46234267,darbepoetin alfa 0.15 MG Injection [Aranesp],1654953,RxNorm
+46234266,darbepoetin alfa 0.15 MG Injection,1654952,RxNorm
+46234265,0.75 ML darbepoetin alfa 0.2 MG/ML Injection [Aranesp],1654951,RxNorm
+46234263,0.75 ML darbepoetin alfa 0.2 MG/ML Injection,1654949,RxNorm
+46234261,darbepoetin alfa 0.3 MG/ML Injection [Aranesp],1654946,RxNorm
+46234260,darbepoetin alfa 0.3 MG/ML Injection,1654945,RxNorm
+46234259,darbepoetin alfa 0.025 MG/ML Injection [Aranesp],1654942,RxNorm
+46234258,darbepoetin alfa 0.025 MG/ML Injection,1654941,RxNorm
+46234257,darbepoetin alfa 0.04 MG/ML Injection [Aranesp],1654938,RxNorm
+46234256,darbepoetin alfa 0.04 MG/ML Injection,1654937,RxNorm
+46234255,darbepoetin alfa 0.06 MG/ML Injection [Aranesp],1654934,RxNorm
+46234254,darbepoetin alfa 0.06 MG/ML Injection,1654933,RxNorm
+46234253,darbepoetin alfa 0.1 MG/ML Injection [Aranesp],1654928,RxNorm
+46234252,darbepoetin alfa 0.1 MG/ML Injection,1654927,RxNorm
+46234251,darbepoetin alfa Injection [Aranesp],1654925,RxNorm
+46234250,darbepoetin alfa Injection,1654923,RxNorm
+44128620,darbepoetin alfa 0.025 MG/ML Injection [Aranesp] by Amgen,OMOP1123251,RxNorm Extension
+44115443,darbepoetin alfa 0.5 MG/ML Injection [Aranesp] by Amgen,OMOP1110074,RxNorm Extension
+44115441,darbepoetin alfa 0.1 MG/ML Injection [Aranesp] by Amgen,OMOP1110072,RxNorm Extension
+44089614,darbepoetin alfa 0.04 MG/ML Injection [Aranesp] by Amgen,OMOP1084245,RxNorm Extension
+44089613,darbepoetin alfa 0.2 MG/ML Injection [Aranesp] by Amgen,OMOP1084244,RxNorm Extension
+43297396,0.5 ML darbepoetin alfa 0.2 MG/ML Injection [Aranesp SureClick],OMOP559382,RxNorm Extension
+43297387,0.4 ML darbepoetin alfa 0.2 MG/ML Injection [Aranesp] Box of 4,OMOP559258,RxNorm Extension
+43297386,0.4 ML darbepoetin alfa 0.1 MG/ML Injection [Aranesp SureClick],OMOP559250,RxNorm Extension
+43297375,0.3 ML darbepoetin alfa 0.1 MG/ML Injection [Aranesp],OMOP559137,RxNorm Extension
+43297374,0.3 ML darbepoetin alfa 0.5 MG/ML Injection Box of 4,OMOP559131,RxNorm Extension
+43292015,0.5 ML darbepoetin alfa 0.2 MG/ML Injection Box of 4,OMOP559381,RxNorm Extension
+43292014,0.5 ML darbepoetin alfa 0.1 MG/ML Injection,OMOP559376,RxNorm Extension
+43292013,0.5 ML darbepoetin alfa 0.04 MG/ML Injection [Aranesp] Box of 4,OMOP559374,RxNorm Extension
+43292012,0.5 ML darbepoetin alfa 0.04 MG/ML Injection [Aranesp],OMOP559373,RxNorm Extension
+43292001,0.4 ML darbepoetin alfa 0.2 MG/ML Injection [Aranesp SureClick],OMOP559256,RxNorm Extension
+43292000,0.4 ML darbepoetin alfa 0.1 MG/ML Injection [Aranesp] Box of 4,OMOP559252,RxNorm Extension
+43291999,0.4 ML darbepoetin alfa 0.1 MG/ML Injection Box of 4,OMOP559249,RxNorm Extension
+43291988,0.3 ML darbepoetin alfa 0.5 MG/ML Injection [Aranesp] Box of 4,OMOP559134,RxNorm Extension
+43291987,0.3 ML darbepoetin alfa 0.5 MG/ML Injection [Aranesp SureClick],OMOP559132,RxNorm Extension
+43291986,0.3 ML darbepoetin alfa 0.5 MG/ML Injection,OMOP559130,RxNorm Extension
+43288013,darbepoetin alfa 0.5 MG/ML Injection [Aranesp] Box of 4,OMOP529370,RxNorm Extension
+43286632,0.5 ML darbepoetin alfa 0.04 MG/ML Injection,OMOP559370,RxNorm Extension
+43286617,0.4 ML darbepoetin alfa 0.1 MG/ML Injection [Aranesp],OMOP559251,RxNorm Extension
+43286616,0.4 ML darbepoetin alfa 0.025 MG/ML Injection [Aranesp] Box of 4,OMOP559247,RxNorm Extension
+43286615,0.4 ML darbepoetin alfa 0.025 MG/ML Injection,OMOP559243,RxNorm Extension
+43282550,darbepoetin alfa 0.1 MG/ML Injection Box of 4,OMOP529375,RxNorm Extension
+43282549,darbepoetin alfa 0.5 MG/ML Injection [Aranesp SureClick],OMOP529368,RxNorm Extension
+43282548,darbepoetin alfa 0.025 MG/ML Injection [Aranesp] Box of 4,OMOP529366,RxNorm Extension
+43281159,0.4 ML darbepoetin alfa 0.2 MG/ML Injection Box of 4,OMOP559255,RxNorm Extension
+43281158,0.4 ML darbepoetin alfa 0.2 MG/ML Injection,OMOP559254,RxNorm Extension
+43281148,0.3 ML darbepoetin alfa 0.2 MG/ML Injection [Aranesp],OMOP559142,RxNorm Extension
+43277271,darbepoetin alfa 0.1 MG/ML Injection [Aranesp SureClick],OMOP529376,RxNorm Extension
+43277270,darbepoetin alfa 0.5 MG/ML Injection [Aranesp],OMOP529369,RxNorm Extension
+43277269,darbepoetin alfa Injection [Aranesp SureClick],OMOP529363,RxNorm Extension
+43275825,0.4 ML darbepoetin alfa 0.2 MG/ML Injection [Aranesp],OMOP559257,RxNorm Extension
+43275824,0.4 ML darbepoetin alfa 0.1 MG/ML Injection,OMOP559248,RxNorm Extension
+43275823,0.4 ML darbepoetin alfa 0.025 MG/ML Injection [Aranesp],OMOP559246,RxNorm Extension
+43275812,0.3 ML darbepoetin alfa 0.2 MG/ML Injection [Aranesp] Box of 4,OMOP559143,RxNorm Extension
+43275811,0.3 ML darbepoetin alfa 0.2 MG/ML Injection [Aranesp SureClick],OMOP559141,RxNorm Extension
+43275810,0.3 ML darbepoetin alfa 0.5 MG/ML Injection [Aranesp],OMOP559133,RxNorm Extension
+43271738,darbepoetin alfa 0.2 MG/ML Injection [Aranesp SureClick],OMOP529380,RxNorm Extension
+43271737,darbepoetin alfa 0.04 MG/ML Injection [Aranesp] Box of 4,OMOP529374,RxNorm Extension
+43271736,darbepoetin alfa 0.025 MG/ML Injection Box of 4,OMOP529365,RxNorm Extension
+43270269,0.5 ML darbepoetin alfa 0.2 MG/ML Injection [Aranesp],OMOP559383,RxNorm Extension
+43270268,0.5 ML darbepoetin alfa 0.1 MG/ML Injection [Aranesp],OMOP559378,RxNorm Extension
+43270253,0.3 ML darbepoetin alfa 0.2 MG/ML Injection Box of 4,OMOP559140,RxNorm Extension
+43270252,0.3 ML darbepoetin alfa 0.2 MG/ML Injection,OMOP559139,RxNorm Extension
+43266244,darbepoetin alfa 0.5 MG/ML Injection Box of 4,OMOP529367,RxNorm Extension
+43264795,0.5 ML darbepoetin alfa 0.2 MG/ML Injection [Aranesp] Box of 4,OMOP559384,RxNorm Extension
+43264794,0.5 ML darbepoetin alfa 0.04 MG/ML Injection [Aranesp SureClick],OMOP559372,RxNorm Extension
+43264763,0.3 ML darbepoetin alfa 0.1 MG/ML Injection [Aranesp] Box of 4,OMOP559138,RxNorm Extension
+43264762,0.3 ML darbepoetin alfa 0.1 MG/ML Injection,OMOP559135,RxNorm Extension
+43260773,darbepoetin alfa 0.04 MG/ML Injection [Aranesp SureClick],OMOP529372,RxNorm Extension
+43259369,0.5 ML darbepoetin alfa 0.2 MG/ML Injection,OMOP559380,RxNorm Extension
+43259368,0.5 ML darbepoetin alfa 0.1 MG/ML Injection [Aranesp] Box of 4,OMOP559379,RxNorm Extension
+43259367,0.5 ML darbepoetin alfa 0.1 MG/ML Injection Box of 4,OMOP559377,RxNorm Extension
+43259366,0.5 ML darbepoetin alfa 0.04 MG/ML Injection Box of 4,OMOP559371,RxNorm Extension
+43259350,0.4 ML darbepoetin alfa 0.025 MG/ML Injection Box of 4,OMOP559244,RxNorm Extension
+43259342,0.3 ML darbepoetin alfa 0.1 MG/ML Injection Box of 4,OMOP559136,RxNorm Extension
+43255449,darbepoetin alfa 0.2 MG/ML Injection [Aranesp] Box of 4,OMOP529381,RxNorm Extension
+43255448,darbepoetin alfa 0.2 MG/ML Injection Box of 4,OMOP529379,RxNorm Extension
+43255447,darbepoetin alfa 0.1 MG/ML Injection [Aranesp] Box of 4,OMOP529377,RxNorm Extension
+43255446,darbepoetin alfa 0.04 MG/ML Injection Box of 4,OMOP529371,RxNorm Extension
+36892771,darbepoetin alfa 0.5 MG/ML Injection,OMOP991193,RxNorm Extension
+19098328,1 ML darbepoetin alfa 0.1 MG/ML Injection [Aranesp],352047,RxNorm
+19098327,1 ML darbepoetin alfa 0.06 MG/ML Injection [Aranesp],352046,RxNorm
+19098326,1 ML darbepoetin alfa 0.04 MG/ML Injection [Aranesp],352045,RxNorm
+19098325,1 ML darbepoetin alfa 0.025 MG/ML Injection [Aranesp],352044,RxNorm
+1304730,1 ML darbepoetin alfa 0.3 MG/ML Injection [Aranesp],352262,RxNorm
+1304724,1 ML darbepoetin alfa 0.3 MG/ML Injection,351247,RxNorm
+1304647,1 ML darbepoetin alfa 0.1 MG/ML Injection,349276,RxNorm
+1304646,1 ML darbepoetin alfa 0.06 MG/ML Injection,349275,RxNorm
+1304645,1 ML darbepoetin alfa 0.04 MG/ML Injection,349274,RxNorm
+1304644,1 ML darbepoetin alfa 0.025 MG/ML Injection,349273,RxNorm
+19127381,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp],730046,RxNorm
+19127380,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe,730044,RxNorm
+2066633,darbepoetin alfa Prefilled Syringe [NESBEL],OMOP4967987,RxNorm Extension
+2066630,darbepoetin alfa 0.04 MG/ML Prefilled Syringe [NESBEL],OMOP4967985,RxNorm Extension
+2066628,darbepoetin alfa 0.06 MG/ML Prefilled Syringe [NESBEL],OMOP4967983,RxNorm Extension
+2066626,darbepoetin alfa 0.08 MG/ML Prefilled Syringe [NESBEL],OMOP4967981,RxNorm Extension
+2066624,darbepoetin alfa 0.12 MG/ML Prefilled Syringe [NESBEL],OMOP4967979,RxNorm Extension
+2066622,darbepoetin alfa 0.24 MG/ML Prefilled Syringe [NESBEL],OMOP4967977,RxNorm Extension
+2034281,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] by Jeil,OMOP4933383,RxNorm Extension
+2034059,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp] by Jeil,OMOP4933151,RxNorm Extension
+2034058,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] by Jeil,OMOP4933150,RxNorm Extension
+2033696,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [NESBEL] by Chongkundang,OMOP4932764,RxNorm Extension
+2033695,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [NESBEL],OMOP4932763,RxNorm Extension
+2033694,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] by Jeil,OMOP4932762,RxNorm Extension
+2033693,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [NESP] by Kyowa Kirin,OMOP4932761,RxNorm Extension
+2033692,0.5 ML darbepoetin alfa 0.06 MG/ML Prefilled Syringe [NESBEL] by Chongkundang,OMOP4932760,RxNorm Extension
+2033691,0.5 ML darbepoetin alfa 0.06 MG/ML Prefilled Syringe [NESBEL],OMOP4932759,RxNorm Extension
+2033690,0.5 ML darbepoetin alfa 0.06 MG/ML Prefilled Syringe [NESP] by Kyowa Kirin,OMOP4932758,RxNorm Extension
+2033689,0.5 ML darbepoetin alfa 0.08 MG/ML Prefilled Syringe [NESBEL] by Chongkundang,OMOP4932757,RxNorm Extension
+2033688,0.5 ML darbepoetin alfa 0.08 MG/ML Prefilled Syringe [NESBEL],OMOP4932756,RxNorm Extension
+2033687,0.5 ML darbepoetin alfa 0.08 MG/ML Prefilled Syringe [NESP] by Kyowa Kirin,OMOP4932755,RxNorm Extension
+2033686,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] by Jeil,OMOP4932754,RxNorm Extension
+2033685,0.5 ML darbepoetin alfa 0.12 MG/ML Prefilled Syringe [NESBEL] by Chongkundang,OMOP4932753,RxNorm Extension
+2033684,0.5 ML darbepoetin alfa 0.12 MG/ML Prefilled Syringe [NESBEL],OMOP4932752,RxNorm Extension
+2033683,0.5 ML darbepoetin alfa 0.12 MG/ML Prefilled Syringe [NESP] by Kyowa Kirin,OMOP4932751,RxNorm Extension
+2033682,0.5 ML darbepoetin alfa 0.24 MG/ML Prefilled Syringe [NESBEL] by Chongkundang,OMOP4932750,RxNorm Extension
+2033681,0.5 ML darbepoetin alfa 0.24 MG/ML Prefilled Syringe [NESBEL],OMOP4932749,RxNorm Extension
+2033680,0.5 ML darbepoetin alfa 0.24 MG/ML Prefilled Syringe [NESP] by Kyowa Kirin,OMOP4932748,RxNorm Extension
+2032171,1 ML darbepoetin alfa 0.02 MG/ML Prefilled Syringe [NESP] by Kyowa Kirin,OMOP4931100,RxNorm Extension
+2032170,1 ML darbepoetin alfa 0.03 MG/ML Prefilled Syringe [NESP] by Kyowa Kirin,OMOP4931099,RxNorm Extension
+2032169,1 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [NESP] by Kyowa Kirin,OMOP4931098,RxNorm Extension
+2032168,1 ML darbepoetin alfa 0.06 MG/ML Prefilled Syringe [NESP] by Kyowa Kirin,OMOP4931097,RxNorm Extension
+2032167,1 ML darbepoetin alfa 0.12 MG/ML Prefilled Syringe [NESP] by Kyowa Kirin,OMOP4931096,RxNorm Extension
+1304799,0.42 ML darbepoetin alfa 0.06 MG/ML Prefilled Syringe [Aranesp],731245,RxNorm
+1304798,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp],731241,RxNorm
+1304797,0.4 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp],731235,RxNorm
+1304796,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp],731231,RxNorm
+1304795,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp],731229,RxNorm
+1304794,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp],731227,RxNorm
+1304793,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe,731184,RxNorm
+1304792,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe,731181,RxNorm
+1304771,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe,731179,RxNorm
+1304770,0.42 ML darbepoetin alfa 0.06 MG/ML Prefilled Syringe,731176,RxNorm
+1304769,0.4 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe,731174,RxNorm
+1304768,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe,731171,RxNorm
+1304767,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe,731167,RxNorm
+35829191,0.5 ML darbepoetin alfa 0.24 MG/ML Prefilled Syringe by JCR,OMOP5039404,RxNorm Extension
+35829190,0.5 ML darbepoetin alfa 0.24 MG/ML Prefilled Syringe by Mylan Seiyaku,OMOP5039405,RxNorm Extension
+35829189,0.5 ML darbepoetin alfa 0.24 MG/ML Prefilled Syringe by Kyowa Kirin,OMOP5039406,RxNorm Extension
+35829188,0.5 ML darbepoetin alfa 0.36 MG/ML Prefilled Syringe by JCR,OMOP5039407,RxNorm Extension
+35829187,0.5 ML darbepoetin alfa 0.36 MG/ML Prefilled Syringe by Mylan Seiyaku,OMOP5039408,RxNorm Extension
+35829186,0.5 ML darbepoetin alfa 0.36 MG/ML Prefilled Syringe by Kyowa Kirin,OMOP5039409,RxNorm Extension
+35162166,1 ML darbepoetin alfa 0.01 MG/ML Prefilled Syringe [NESP],OMOP4819128,RxNorm Extension
+35159978,0.5 ML darbepoetin alfa 0.36 MG/ML Prefilled Syringe [NESP],OMOP4816958,RxNorm Extension
+35159735,1 ML darbepoetin alfa 0.06 MG/ML Prefilled Syringe,OMOP4816718,RxNorm Extension
+35159732,1 ML darbepoetin alfa 0.02 MG/ML Prefilled Syringe,OMOP4816715,RxNorm Extension
+35159119,darbepoetin alfa 0.015 MG/ML Prefilled Syringe [NESP],OMOP4816103,RxNorm Extension
+35158372,0.5 ML darbepoetin alfa 0.02 MG/ML Prefilled Syringe,OMOP4815370,RxNorm Extension
+35157847,0.6 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe,OMOP4814847,RxNorm Extension
+35157274,darbepoetin alfa 0.02 MG/ML Prefilled Syringe,OMOP4814281,RxNorm Extension
+35156253,1 ML darbepoetin alfa 0.015 MG/ML Prefilled Syringe,OMOP4813263,RxNorm Extension
+35155008,darbepoetin alfa 0.02 MG/ML Prefilled Syringe [NESP],OMOP4812029,RxNorm Extension
+35154978,0.6 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [NESP],OMOP4811999,RxNorm Extension
+35154693,1 ML darbepoetin alfa 0.03 MG/ML Prefilled Syringe,OMOP4811715,RxNorm Extension
+35153378,1 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe,OMOP4810407,RxNorm Extension
+35151754,darbepoetin alfa 0.08 MG/ML Prefilled Syringe [NESP],OMOP4808799,RxNorm Extension
+35148601,darbepoetin alfa 0.36 MG/ML Prefilled Syringe [NESP],OMOP4805663,RxNorm Extension
+35148202,darbepoetin alfa 0.36 MG/ML Prefilled Syringe,OMOP4805265,RxNorm Extension
+35146577,darbepoetin alfa 0.08 MG/ML Prefilled Syringe,OMOP4803654,RxNorm Extension
+35146522,1 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [NESP],OMOP4803600,RxNorm Extension
+35146146,0.5 ML darbepoetin alfa 0.01 MG/ML Prefilled Syringe,OMOP4803229,RxNorm Extension
+35144486,0.5 ML darbepoetin alfa 0.36 MG/ML Prefilled Syringe,OMOP4801583,RxNorm Extension
+35144418,0.5 ML darbepoetin alfa 0.03 MG/ML Prefilled Syringe [NESP],OMOP4801513,RxNorm Extension
+35144178,1 ML darbepoetin alfa 0.12 MG/ML Prefilled Syringe,OMOP4801273,RxNorm Extension
+35143987,0.5 ML darbepoetin alfa 0.08 MG/ML Prefilled Syringe [NESP],OMOP4801083,RxNorm Extension
+35143409,1 ML darbepoetin alfa 0.03 MG/ML Prefilled Syringe [NESP],OMOP4800511,RxNorm Extension
+35141193,darbepoetin alfa 0.03 MG/ML Prefilled Syringe,OMOP4798324,RxNorm Extension
+35140487,1 ML darbepoetin alfa 0.02 MG/ML Prefilled Syringe [NESP],OMOP4797626,RxNorm Extension
+35140451,darbepoetin alfa 0.015 MG/ML Prefilled Syringe,OMOP4797590,RxNorm Extension
+35140434,darbepoetin alfa 0.1 MG/ML Prefilled Syringe [NESP],OMOP4797573,RxNorm Extension
+35140343,1 ML darbepoetin alfa 0.015 MG/ML Prefilled Syringe [NESP],OMOP4797486,RxNorm Extension
+35140282,1 ML darbepoetin alfa 0.01 MG/ML Prefilled Syringe,OMOP4797426,RxNorm Extension
+35140060,0.5 ML darbepoetin alfa 0.01 MG/ML Prefilled Syringe [NESP],OMOP4797208,RxNorm Extension
+35138935,darbepoetin alfa 0.2 MG/ML Prefilled Syringe [NESP],OMOP4796092,RxNorm Extension
+35138296,darbepoetin alfa 0.01 MG/ML Prefilled Syringe,OMOP4795457,RxNorm Extension
+35137829,0.5 ML darbepoetin alfa 0.02 MG/ML Prefilled Syringe [NESP],OMOP4795000,RxNorm Extension
+35136436,0.6 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [NESP],OMOP4793613,RxNorm Extension
+35136125,darbepoetin alfa 0.01 MG/ML Prefilled Syringe [NESP],OMOP4793308,RxNorm Extension
+35134314,darbepoetin alfa 0.03 MG/ML Prefilled Syringe [NESP],OMOP4791517,RxNorm Extension
+35132547,0.5 ML darbepoetin alfa 0.03 MG/ML Prefilled Syringe,OMOP4789771,RxNorm Extension
+35131993,0.5 ML darbepoetin alfa 0.08 MG/ML Prefilled Syringe,OMOP4789225,RxNorm Extension
+35131743,0.6 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe,OMOP4788978,RxNorm Extension
+35131306,1 ML darbepoetin alfa 0.06 MG/ML Prefilled Syringe [NESP],OMOP4788549,RxNorm Extension
+35129100,1 ML darbepoetin alfa 0.12 MG/ML Prefilled Syringe [NESP],OMOP4786370,RxNorm Extension
+21177055,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] by Amgen,OMOP287557,RxNorm Extension
+21177007,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 1,OMOP286707,RxNorm Extension
+21177006,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4,OMOP286702,RxNorm Extension
+21176977,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP286280,RxNorm Extension
+21176976,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick] by Amgen,OMOP286275,RxNorm Extension
+21176975,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1 by Amgen,OMOP286266,RxNorm Extension
+21176974,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp SureClick] by Amgen,OMOP286264,RxNorm Extension
+21176943,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 1,OMOP285682,RxNorm Extension
+21175449,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1,OMOP293479,RxNorm Extension
+21167933,0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Amgen,OMOP286067,RxNorm Extension
+21167932,0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] by Amgen,OMOP286065,RxNorm Extension
+21167906,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 1,OMOP287680,RxNorm Extension
+21167213,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP286705,RxNorm Extension
+21167190,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Amgen,OMOP286281,RxNorm Extension
+21167189,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 1,OMOP286271,RxNorm Extension
+21167188,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1,OMOP286265,RxNorm Extension
+21167187,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp SureClick],OMOP286263,RxNorm Extension
+21167186,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4,OMOP286262,RxNorm Extension
+21167185,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 1,OMOP286261,RxNorm Extension
+21167150,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1 by Amgen,OMOP285697,RxNorm Extension
+21167149,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4,OMOP285683,RxNorm Extension
+21167148,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP285679,RxNorm Extension
+21167147,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp],OMOP285677,RxNorm Extension
+21160726,darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP365722,RxNorm Extension
+21160725,darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1,OMOP365721,RxNorm Extension
+21160723,darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1,OMOP365705,RxNorm Extension
+21158137,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp],OMOP287687,RxNorm Extension
+21157461,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] by Amgen,OMOP286725,RxNorm Extension
+21157460,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4,OMOP286708,RxNorm Extension
+21157442,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Amgen,OMOP286285,RxNorm Extension
+21155943,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] by Amgen,OMOP293485,RxNorm Extension
+21150779,darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1,OMOP365709,RxNorm Extension
+21150778,darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4,OMOP365703,RxNorm Extension
+21150777,darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp SureClick],OMOP365697,RxNorm Extension
+21147480,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick] by Amgen,OMOP286710,RxNorm Extension
+21147448,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] by Amgen,OMOP286267,RxNorm Extension
+21147421,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Amgen,OMOP285691,RxNorm Extension
+21147420,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1 by Amgen,OMOP285687,RxNorm Extension
+21145986,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1 by Amgen,OMOP293483,RxNorm Extension
+21145985,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp SureClick] by Amgen,OMOP293481,RxNorm Extension
+21140936,darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP365714,RxNorm Extension
+21140935,darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 4,OMOP365710,RxNorm Extension
+21140933,darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4,OMOP365696,RxNorm Extension
+21137691,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1 by Amgen,OMOP287556,RxNorm Extension
+21137690,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1,OMOP287551,RxNorm Extension
+21137653,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Amgen,OMOP286716,RxNorm Extension
+21137592,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick] by Amgen,OMOP285685,RxNorm Extension
+21137591,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Amgen,OMOP285681,RxNorm Extension
+21137590,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4,OMOP285676,RxNorm Extension
+21130980,darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp SureClick],OMOP365711,RxNorm Extension
+21130979,darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP365706,RxNorm Extension
+21128460,0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4,OMOP286063,RxNorm Extension
+21128433,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4,OMOP287681,RxNorm Extension
+21128432,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe,OMOP287679,RxNorm Extension
+21127837,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP287558,RxNorm Extension
+21127836,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1,OMOP287554,RxNorm Extension
+21127770,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4,OMOP286719,RxNorm Extension
+21127769,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] by Amgen,OMOP286714,RxNorm Extension
+21127749,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp] by Amgen,OMOP286283,RxNorm Extension
+21127748,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1 by Amgen,OMOP286277,RxNorm Extension
+21127726,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] by Amgen,OMOP285699,RxNorm Extension
+21127725,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1,OMOP285692,RxNorm Extension
+21127724,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick],OMOP285684,RxNorm Extension
+21118659,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1 by Amgen,OMOP287685,RxNorm Extension
+21118068,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp SureClick] by Amgen,OMOP287553,RxNorm Extension
+21118010,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp],OMOP286703,RxNorm Extension
+21117980,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] by Amgen,OMOP286279,RxNorm Extension
+21111535,darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP365725,RxNorm Extension
+21111534,darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick],OMOP365704,RxNorm Extension
+21108305,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp SureClick],OMOP287552,RxNorm Extension
+21108269,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP286726,RxNorm Extension
+21108268,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP286715,RxNorm Extension
+21108249,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP286268,RxNorm Extension
+21108221,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP285700,RxNorm Extension
+21101693,darbepoetin alfa 0.025 MG/ML Prefilled Syringe Box of 4,OMOP365724,RxNorm Extension
+21101692,darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1,OMOP365698,RxNorm Extension
+21099153,0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP286066,RxNorm Extension
+21099123,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Amgen,OMOP287690,RxNorm Extension
+21099122,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1,OMOP287684,RxNorm Extension
+21098446,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp],OMOP286724,RxNorm Extension
+21098445,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1 by Amgen,OMOP286723,RxNorm Extension
+21098444,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp SureClick],OMOP286720,RxNorm Extension
+21098415,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe,OMOP286270,RxNorm Extension
+21098414,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Amgen,OMOP286269,RxNorm Extension
+21098385,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 4,OMOP285693,RxNorm Extension
+21098384,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1,OMOP285686,RxNorm Extension
+21096889,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP293486,RxNorm Extension
+21088540,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] by Amgen,OMOP286704,RxNorm Extension
+21088509,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1,OMOP285696,RxNorm Extension
+21088508,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] by Amgen,OMOP285678,RxNorm Extension
+21079504,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick],OMOP287682,RxNorm Extension
+21078836,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Amgen,OMOP286727,RxNorm Extension
+21078780,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Amgen,OMOP285701,RxNorm Extension
+21077386,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Amgen,OMOP293487,RxNorm Extension
+21077385,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1,OMOP293482,RxNorm Extension
+21077384,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp SureClick],OMOP293480,RxNorm Extension
+21072345,darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4,OMOP365719,RxNorm Extension
+21069779,0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp],OMOP286064,RxNorm Extension
+21069064,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick],OMOP286709,RxNorm Extension
+21069063,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe,OMOP286701,RxNorm Extension
+21069036,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe Box of 4,OMOP286282,RxNorm Extension
+21069035,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1,OMOP286276,RxNorm Extension
+21062434,darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP365713,RxNorm Extension
+21059801,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP287689,RxNorm Extension
+21059182,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Amgen,OMOP287559,RxNorm Extension
+21059137,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1,OMOP286722,RxNorm Extension
+21059136,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp SureClick] by Amgen,OMOP286721,RxNorm Extension
+21059135,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 1,OMOP286718,RxNorm Extension
+21059134,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1,OMOP286711,RxNorm Extension
+21059118,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp],OMOP286278,RxNorm Extension
+21059117,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick],OMOP286274,RxNorm Extension
+21059116,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4,OMOP286273,RxNorm Extension
+21052629,darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP365699,RxNorm Extension
+21052628,darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 1,OMOP365695,RxNorm Extension
+21050012,0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe,OMOP286062,RxNorm Extension
+21049970,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick] by Amgen,OMOP287683,RxNorm Extension
+21049381,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe,OMOP286717,RxNorm Extension
+21049359,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP286284,RxNorm Extension
+21049328,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp SureClick] by Amgen,OMOP285695,RxNorm Extension
+21049327,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp SureClick],OMOP285694,RxNorm Extension
+21049326,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP285690,RxNorm Extension
+21049325,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] by Amgen,OMOP285688,RxNorm Extension
+21049324,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe,OMOP285675,RxNorm Extension
+21042829,darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp SureClick],OMOP365720,RxNorm Extension
+21042828,darbepoetin alfa Prefilled Syringe [Aranesp SureClick],OMOP365692,RxNorm Extension
+21039552,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Amgen,OMOP286706,RxNorm Extension
+21032932,darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 1,OMOP365718,RxNorm Extension
+21032931,darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1,OMOP365712,RxNorm Extension
+21032930,darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 1,OMOP365702,RxNorm Extension
+21030351,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] by Amgen,OMOP287688,RxNorm Extension
+21029693,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp SureClick] Box of 1 by Amgen,OMOP286712,RxNorm Extension
+19127526,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp],731250,RxNorm
+41410059,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Beragena,OMOP2608021,RxNorm Extension
+41409865,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Orifarm Leverkus,OMOP2607827,RxNorm Extension
+41409781,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Nespo],OMOP2607743,RxNorm Extension
+41409659,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Gerke,OMOP2607621,RxNorm Extension
+41409658,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Veron,OMOP2607620,RxNorm Extension
+41409657,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Haematogmbh,OMOP2607619,RxNorm Extension
+41409493,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Nespo] Box of 4 by Cc,OMOP2607455,RxNorm Extension
+41409492,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Emra-Med,OMOP2607454,RxNorm Extension
+41409491,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Beragena,OMOP2607453,RxNorm Extension
+41409490,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Kohlpharma,OMOP2607452,RxNorm Extension
+41409320,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Cc,OMOP2607282,RxNorm Extension
+41409319,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Nespo] Box of 4 by Emra-Med,OMOP2607281,RxNorm Extension
+41409318,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Eurim-Pharm,OMOP2607280,RxNorm Extension
+41409119,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Eurim-Pharm,OMOP2607081,RxNorm Extension
+41409023,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Nespo],OMOP2606985,RxNorm Extension
+41408842,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Nespo] Box of 1,OMOP2606804,RxNorm Extension
+41408569,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Emra-Med,OMOP2606531,RxNorm Extension
+41408568,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Cc,OMOP2606530,RxNorm Extension
+41408194,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Amgen,OMOP2606156,RxNorm Extension
+41408096,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Nespo] Box of 1,OMOP2606058,RxNorm Extension
+41407972,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Aca Mueller,OMOP2605934,RxNorm Extension
+41407898,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Nespo] Box of 4,OMOP2605860,RxNorm Extension
+41407776,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Aca Mueller,OMOP2605738,RxNorm Extension
+41407775,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Haematogmbh,OMOP2605737,RxNorm Extension
+41407774,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Nespo] Box of 4 by Cc,OMOP2605736,RxNorm Extension
+41407773,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Eurim-Pharm,OMOP2605735,RxNorm Extension
+41407772,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Nespo] Box of 4 by Orifarm Leverkus,OMOP2605734,RxNorm Extension
+41407691,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Nespo] Box of 4,OMOP2605653,RxNorm Extension
+41407690,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Nespo],OMOP2605652,RxNorm Extension
+41407580,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Haematogmbh,OMOP2605542,RxNorm Extension
+41407579,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Aca Mueller,OMOP2605541,RxNorm Extension
+41407366,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Kohlpharma,OMOP2605328,RxNorm Extension
+41407365,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Orifarm Leverkus,OMOP2605327,RxNorm Extension
+41407364,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Cc,OMOP2605326,RxNorm Extension
+41407363,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Kohlpharma,OMOP2605325,RxNorm Extension
+41407290,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Nespo] Box of 4,OMOP2605252,RxNorm Extension
+41407152,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Nespo] Box of 4 by Orifarm Leverkus,OMOP2605114,RxNorm Extension
+41407151,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Eurim-Pharm,OMOP2605113,RxNorm Extension
+41407077,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Cc,OMOP2605039,RxNorm Extension
+41407012,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Nespo] Box of 4 by Cc,OMOP2604974,RxNorm Extension
+41406955,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Beragena,OMOP2604917,RxNorm Extension
+41406954,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Amgen,OMOP2604916,RxNorm Extension
+41406953,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Emra-Med,OMOP2604915,RxNorm Extension
+41406952,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Cc,OMOP2604914,RxNorm Extension
+41406897,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Kohlpharma,OMOP2604859,RxNorm Extension
+41406896,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Emra-Med,OMOP2604858,RxNorm Extension
+41406895,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Eurim-Pharm,OMOP2604857,RxNorm Extension
+41406894,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Aca Mueller,OMOP2604856,RxNorm Extension
+41406893,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Beragena,OMOP2604855,RxNorm Extension
+41406875,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Nespo],OMOP2604837,RxNorm Extension
+41406874,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Nespo] Box of 1,OMOP2604836,RxNorm Extension
+41406842,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Kohlpharma,OMOP2604804,RxNorm Extension
+41406826,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Nespo] Box of 4,OMOP2604788,RxNorm Extension
+41406825,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Nespo],OMOP2604787,RxNorm Extension
+41406785,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Kohlpharma,OMOP2604747,RxNorm Extension
+41406784,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Nespo] Box of 4 by Kohlpharma,OMOP2604746,RxNorm Extension
+41406711,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Haematogmbh,OMOP2604673,RxNorm Extension
+41406710,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Axicorp,OMOP2604672,RxNorm Extension
+41406709,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Gerke,OMOP2604671,RxNorm Extension
+41406685,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Nespo] Box of 1,OMOP2604647,RxNorm Extension
+41406659,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Haematogmbh,OMOP2604621,RxNorm Extension
+41406596,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Gerke,OMOP2604558,RxNorm Extension
+41406595,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Amgen,OMOP2604557,RxNorm Extension
+41406532,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Orifarm Leverkus,OMOP2604494,RxNorm Extension
+41406531,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Orifarm Leverkus,OMOP2604493,RxNorm Extension
+41406530,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Aca Mueller,OMOP2604492,RxNorm Extension
+41406480,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Aca Mueller,OMOP2604442,RxNorm Extension
+41406479,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Cc,OMOP2604441,RxNorm Extension
+41406478,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Orifarm Leverkus,OMOP2604440,RxNorm Extension
+41406408,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Emra-Med,OMOP2604370,RxNorm Extension
+41406407,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Orifarm Leverkus,OMOP2604369,RxNorm Extension
+41406386,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Nespo] Box of 4,OMOP2604348,RxNorm Extension
+41406281,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Haematogmbh,OMOP2604243,RxNorm Extension
+41406280,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Veron,OMOP2604242,RxNorm Extension
+41406279,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Nespo] Box of 4 by Emra-Med,OMOP2604241,RxNorm Extension
+41406225,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Eurim-Pharm,OMOP2604187,RxNorm Extension
+41406170,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Emra-Med,OMOP2604132,RxNorm Extension
+41406164,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Amgen,OMOP2604126,RxNorm Extension
+41406163,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Axicorp,OMOP2604125,RxNorm Extension
+41406133,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Nespo],OMOP2604095,RxNorm Extension
+41406110,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Beragena,OMOP2604072,RxNorm Extension
+41406090,0.3 ML darbepoetin alfa 0.075 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP2604052,RxNorm Extension
+41406037,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Nespo] Box of 4,OMOP2603999,RxNorm Extension
+41406036,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Nespo] Box of 4,OMOP2603998,RxNorm Extension
+41405955,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Emra-Med,OMOP2603917,RxNorm Extension
+41405920,0.3 ML darbepoetin alfa 0.075 MG/ML Prefilled Syringe [Aranesp],OMOP2603882,RxNorm Extension
+41405919,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Nespo] Box of 4,OMOP2603881,RxNorm Extension
+41405886,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Cc,OMOP2603848,RxNorm Extension
+41405885,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Haematogmbh,OMOP2603847,RxNorm Extension
+41405884,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Haematogmbh,OMOP2603846,RxNorm Extension
+41405819,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Aca Mueller,OMOP2603781,RxNorm Extension
+41405818,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Haematogmbh,OMOP2603780,RxNorm Extension
+41405800,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Nespo],OMOP2603762,RxNorm Extension
+41405799,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Nespo],OMOP2603761,RxNorm Extension
+41405768,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Aca Mueller,OMOP2603730,RxNorm Extension
+41405767,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Kohlpharma,OMOP2603729,RxNorm Extension
+41405723,0.3 ML darbepoetin alfa 0.075 MG/ML Prefilled Syringe,OMOP2603685,RxNorm Extension
+41405716,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Kohlpharma,OMOP2603678,RxNorm Extension
+41405715,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Axicorp,OMOP2603677,RxNorm Extension
+41405714,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Eurim-Pharm,OMOP2603676,RxNorm Extension
+41405713,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Kohlpharma,OMOP2603675,RxNorm Extension
+41405660,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Orifarm Leverkus,OMOP2603622,RxNorm Extension
+41405607,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Cc,OMOP2603569,RxNorm Extension
+41405550,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Emra-Med,OMOP2603512,RxNorm Extension
+41405549,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Gerke,OMOP2603511,RxNorm Extension
+41405428,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Gerke,OMOP2603390,RxNorm Extension
+41405427,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Cc,OMOP2603389,RxNorm Extension
+41405426,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Orifarm Leverkus,OMOP2603388,RxNorm Extension
+41405393,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Nespo] Box of 1,OMOP2603355,RxNorm Extension
+41405354,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Axicorp,OMOP2603316,RxNorm Extension
+41405353,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Orifarm Leverkus,OMOP2603315,RxNorm Extension
+41405352,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Eurim-Pharm,OMOP2603314,RxNorm Extension
+41405351,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Beragena,OMOP2603313,RxNorm Extension
+41405312,0.3 ML darbepoetin alfa 0.075 MG/ML Prefilled Syringe Box of 4,OMOP2603274,RxNorm Extension
+41405292,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Eurim-Pharm,OMOP2603254,RxNorm Extension
+41405262,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Nespo] Box of 1,OMOP2603224,RxNorm Extension
+41337489,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Haematogmbh,OMOP2535451,RxNorm Extension
+41335506,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Eurim-Pharm,OMOP2533468,RxNorm Extension
+41335505,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Kohlpharma,OMOP2533467,RxNorm Extension
+41333949,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Nespo],OMOP2531911,RxNorm Extension
+41331417,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Inopha,OMOP2529379,RxNorm Extension
+41329233,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Nespo] Box of 1,OMOP2527195,RxNorm Extension
+41328781,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Cc,OMOP2526743,RxNorm Extension
+41315483,darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Nespo],OMOP2513445,RxNorm Extension
+41253232,darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Nespo] Box of 4,OMOP2451194,RxNorm Extension
+41222277,darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Nespo],OMOP2420239,RxNorm Extension
+41191172,darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Nespo] Box of 1,OMOP2389134,RxNorm Extension
+41160017,darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Nespo] Box of 1,OMOP2357979,RxNorm Extension
+41065708,darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Nespo] Box of 4,OMOP2263670,RxNorm Extension
+41065707,darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Nespo] Box of 1,OMOP2263669,RxNorm Extension
+41034578,darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Nespo] Box of 4,OMOP2232540,RxNorm Extension
+41003465,darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Nespo] Box of 1,OMOP2201427,RxNorm Extension
+40972102,darbepoetin alfa 0.075 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP2170064,RxNorm Extension
+40972101,darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Nespo] Box of 4,OMOP2170063,RxNorm Extension
+40961506,darbepoetin alfa 0.075 MG/ML Prefilled Syringe,OMOP2159468,RxNorm Extension
+40957300,darbepoetin alfa Prefilled Syringe [Nespo],OMOP2155262,RxNorm Extension
+40941148,darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Nespo],OMOP2139110,RxNorm Extension
+40930183,darbepoetin alfa 0.075 MG/ML Prefilled Syringe Box of 4,OMOP2128145,RxNorm Extension
+40878765,darbepoetin alfa 0.075 MG/ML Prefilled Syringe [Aranesp],OMOP2076727,RxNorm Extension
+40878763,darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Nespo],OMOP2076725,RxNorm Extension
+40142275,darbepoetin alfa Prefilled Syringe [Aranesp],730045,RxNorm
+40142274,darbepoetin alfa Prefilled Syringe,730043,RxNorm
+37593802,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] by Haematogmbh,OMOP4783234,RxNorm Extension
+37593801,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] by Eurim-Pharm,OMOP4783233,RxNorm Extension
+37593800,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] by Abacus Medicine,OMOP4783232,RxNorm Extension
+37593739,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] by Haematogmbh,OMOP4783172,RxNorm Extension
+37593713,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] by Kohlpharma,OMOP4783147,RxNorm Extension
+37593671,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] by Emra-Med,OMOP4783105,RxNorm Extension
+37593667,0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] by Cc,OMOP4783101,RxNorm Extension
+36896180,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 1,OMOP991675,RxNorm Extension
+36037074,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Abacus Medicine,OMOP5047072,RxNorm Extension
+36037032,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Abacus Medicine,OMOP5047031,RxNorm Extension
+35829211,0.5 ML darbepoetin alfa 0.01 MG/ML Prefilled Syringe by JCR,OMOP5039385,RxNorm Extension
+35829210,0.5 ML darbepoetin alfa 0.01 MG/ML Prefilled Syringe by Kyowa Kirin,OMOP5039386,RxNorm Extension
+35829209,0.5 ML darbepoetin alfa 0.02 MG/ML Prefilled Syringe by JCR,OMOP5039387,RxNorm Extension
+35829208,0.5 ML darbepoetin alfa 0.02 MG/ML Prefilled Syringe by Kyowa Kirin,OMOP5039388,RxNorm Extension
+35829207,0.5 ML darbepoetin alfa 0.03 MG/ML Prefilled Syringe by JCR,OMOP5039389,RxNorm Extension
+35829206,0.5 ML darbepoetin alfa 0.03 MG/ML Prefilled Syringe by Kyowa Kirin,OMOP5039390,RxNorm Extension
+35829205,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe by JCR,OMOP5039391,RxNorm Extension
+35829204,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe by Kyowa Kirin,OMOP5039392,RxNorm Extension
+35829202,0.5 ML darbepoetin alfa 0.06 MG/ML Prefilled Syringe by Sanwa Kagaku,OMOP5039393,RxNorm Extension
+35829201,0.5 ML darbepoetin alfa 0.06 MG/ML Prefilled Syringe by JCR,OMOP5039394,RxNorm Extension
+35829200,0.5 ML darbepoetin alfa 0.06 MG/ML Prefilled Syringe by Mylan Seiyaku,OMOP5039395,RxNorm Extension
+35829199,0.5 ML darbepoetin alfa 0.06 MG/ML Prefilled Syringe by Kyowa Kirin,OMOP5039396,RxNorm Extension
+35829198,0.5 ML darbepoetin alfa 0.08 MG/ML Prefilled Syringe by JCR,OMOP5039397,RxNorm Extension
+35829197,0.5 ML darbepoetin alfa 0.08 MG/ML Prefilled Syringe by Kyowa Kirin,OMOP5039398,RxNorm Extension
+35829196,0.5 ML darbepoetin alfa 0.12 MG/ML Prefilled Syringe by Sanwa Kagaku,OMOP5039399,RxNorm Extension
+35829195,0.5 ML darbepoetin alfa 0.12 MG/ML Prefilled Syringe by JCR,OMOP5039400,RxNorm Extension
+35829194,0.5 ML darbepoetin alfa 0.12 MG/ML Prefilled Syringe by Mylan Seiyaku,OMOP5039401,RxNorm Extension
+35829193,0.5 ML darbepoetin alfa 0.12 MG/ML Prefilled Syringe by Kyowa Kirin,OMOP5039402,RxNorm Extension
+35829192,0.5 ML darbepoetin alfa 0.24 MG/ML Prefilled Syringe by Sanwa Kagaku,OMOP5039403,RxNorm Extension
+44201217,0.38 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4 by Emra-Med,OMOP3077940,RxNorm Extension
+44197295,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1 by Amgen,OMOP3074018,RxNorm Extension
+44197294,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1 by Orifarm Leverkus,OMOP3074017,RxNorm Extension
+44197282,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1 by Kohlpharma,OMOP3074005,RxNorm Extension
+44197272,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1 by Haematogmbh,OMOP3073995,RxNorm Extension
+44197266,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1 by Aca Mueller,OMOP3073989,RxNorm Extension
+44197265,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1 by Axicorp,OMOP3073988,RxNorm Extension
+44197252,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1 by Inopha,OMOP3073975,RxNorm Extension
+44197242,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4 by Amgen,OMOP3073965,RxNorm Extension
+44197241,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Beragena,OMOP3073964,RxNorm Extension
+44197240,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Haematogmbh,OMOP3073963,RxNorm Extension
+44197239,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4 by Beragena,OMOP3073962,RxNorm Extension
+44197238,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Orifarm Leverkus,OMOP3073961,RxNorm Extension
+44197237,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Cc,OMOP3073960,RxNorm Extension
+44197220,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Aca Mueller,OMOP3073943,RxNorm Extension
+44197219,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Kohlpharma,OMOP3073942,RxNorm Extension
+44197197,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4 by Veron,OMOP3073920,RxNorm Extension
+44197196,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4 by Eurim-Pharm,OMOP3073919,RxNorm Extension
+44197195,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4 by Haematogmbh,OMOP3073918,RxNorm Extension
+44197194,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 1 by Amgen,OMOP3073917,RxNorm Extension
+44197193,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Beragena,OMOP3073916,RxNorm Extension
+44197192,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Haematogmbh,OMOP3073915,RxNorm Extension
+44197168,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Cc,OMOP3073891,RxNorm Extension
+44197167,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4 by Gerke,OMOP3073890,RxNorm Extension
+44197166,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Kohlpharma,OMOP3073889,RxNorm Extension
+44197165,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Emra-Med,OMOP3073888,RxNorm Extension
+44197137,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Amgen,OMOP3073860,RxNorm Extension
+44197115,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4 by Emra-Med,OMOP3073838,RxNorm Extension
+44197114,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4 by Orifarm Leverkus,OMOP3073837,RxNorm Extension
+44197113,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Eurim-Pharm,OMOP3073836,RxNorm Extension
+44197112,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Eurim-Pharm,OMOP3073835,RxNorm Extension
+44197073,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4 by Kohlpharma,OMOP3073796,RxNorm Extension
+44197043,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Amgen,OMOP3073766,RxNorm Extension
+44197042,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4 by Aca Mueller,OMOP3073765,RxNorm Extension
+44197041,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4 by Cc,OMOP3073764,RxNorm Extension
+44197040,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Aca Mueller,OMOP3073763,RxNorm Extension
+44197010,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 1 by Emra-Med,OMOP3073733,RxNorm Extension
+44197003,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Haematogmbh,OMOP3073726,RxNorm Extension
+44197002,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 1 by Orifarm Leverkus,OMOP3073725,RxNorm Extension
+44197001,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Gerke,OMOP3073724,RxNorm Extension
+44196991,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Veron,OMOP3073714,RxNorm Extension
+44196990,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe Box of 4 by Aca Mueller,OMOP3073713,RxNorm Extension
+44196989,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe Box of 4 by Emra-Med,OMOP3073712,RxNorm Extension
+44196988,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe Box of 4 by Kohlpharma,OMOP3073711,RxNorm Extension
+44196987,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Kohlpharma,OMOP3073710,RxNorm Extension
+44196986,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Aca Mueller,OMOP3073709,RxNorm Extension
+44196973,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Amgen,OMOP3073696,RxNorm Extension
+44196972,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe Box of 4 by Cc,OMOP3073695,RxNorm Extension
+44196971,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Eurim-Pharm,OMOP3073694,RxNorm Extension
+44196970,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Orifarm Leverkus,OMOP3073693,RxNorm Extension
+44196960,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Aca Mueller,OMOP3073683,RxNorm Extension
+44196959,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Amgen,OMOP3073682,RxNorm Extension
+44196958,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe Box of 4 by Amgen,OMOP3073681,RxNorm Extension
+44196957,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Emra-Med,OMOP3073680,RxNorm Extension
+44196956,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Beragena,OMOP3073679,RxNorm Extension
+44196947,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Cc,OMOP3073670,RxNorm Extension
+44196946,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Gerke,OMOP3073669,RxNorm Extension
+44196945,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Beragena,OMOP3073668,RxNorm Extension
+44196944,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 1 by Amgen,OMOP3073667,RxNorm Extension
+44196943,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 1 by Eurim-Pharm,OMOP3073666,RxNorm Extension
+44196942,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 1 by Amgen,OMOP3073665,RxNorm Extension
+44196925,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Cc,OMOP3073648,RxNorm Extension
+44196924,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Haematogmbh,OMOP3073647,RxNorm Extension
+44196923,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Orifarm Leverkus,OMOP3073646,RxNorm Extension
+44196922,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Emra-Med,OMOP3073645,RxNorm Extension
+44196921,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Kohlpharma,OMOP3073644,RxNorm Extension
+44196906,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe Box of 4 by Eurim-Pharm,OMOP3073629,RxNorm Extension
+44196905,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe Box of 4 by Orifarm Leverkus,OMOP3073628,RxNorm Extension
+44196896,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Axicorp,OMOP3073619,RxNorm Extension
+44196895,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 1 by Emra-Med,OMOP3073618,RxNorm Extension
+44196886,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe Box of 4 by Haematogmbh,OMOP3073609,RxNorm Extension
+44196883,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Aca Mueller,OMOP3073606,RxNorm Extension
+44196882,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Amgen,OMOP3073605,RxNorm Extension
+44196881,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Axicorp,OMOP3073604,RxNorm Extension
+44196880,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Eurim-Pharm,OMOP3073603,RxNorm Extension
+44196879,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 1 by Amgen,OMOP3073602,RxNorm Extension
+44196876,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Haematogmbh,OMOP3073599,RxNorm Extension
+44196875,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Orifarm Leverkus,OMOP3073598,RxNorm Extension
+44196874,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Kohlpharma,OMOP3073597,RxNorm Extension
+44196873,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 4 by Beragena,OMOP3073596,RxNorm Extension
+44196871,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Orifarm Leverkus,OMOP3073594,RxNorm Extension
+44196870,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 4 by Emra-Med,OMOP3073593,RxNorm Extension
+44196869,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 4 by Eurim-Pharm,OMOP3073592,RxNorm Extension
+44196868,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 4 by Kohlpharma,OMOP3073591,RxNorm Extension
+44196865,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 4 by Orifarm Leverkus,OMOP3073588,RxNorm Extension
+44196859,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Cc,OMOP3073582,RxNorm Extension
+44196858,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Aca Mueller,OMOP3073581,RxNorm Extension
+44196857,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Amgen,OMOP3073580,RxNorm Extension
+44196856,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Cc,OMOP3073579,RxNorm Extension
+44196855,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 4 by Amgen,OMOP3073578,RxNorm Extension
+44196854,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Kohlpharma,OMOP3073577,RxNorm Extension
+44196851,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 4 by Axicorp,OMOP3073574,RxNorm Extension
+44196850,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 4 by Haematogmbh,OMOP3073573,RxNorm Extension
+44196846,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Gerke,OMOP3073569,RxNorm Extension
+44196845,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Gerke,OMOP3073568,RxNorm Extension
+44196844,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Axicorp,OMOP3073567,RxNorm Extension
+44196843,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Beragena,OMOP3073566,RxNorm Extension
+44196842,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Emra-Med,OMOP3073565,RxNorm Extension
+44196841,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Eurim-Pharm,OMOP3073564,RxNorm Extension
+44196840,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 4 by Haematogmbh,OMOP3073563,RxNorm Extension
+44196839,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Beragena,OMOP3073562,RxNorm Extension
+44196838,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 4 by Cc,OMOP3073561,RxNorm Extension
+44190088,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1 by Amgen,OMOP3066811,RxNorm Extension
+44189980,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1 by Cc,OMOP3066703,RxNorm Extension
+44189979,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1 by Haematogmbh,OMOP3066702,RxNorm Extension
+44189871,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1 by Inopha,OMOP3066594,RxNorm Extension
+44189786,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1 by Eurim-Pharm,OMOP3066509,RxNorm Extension
+44189785,1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe Box of 1 by Kohlpharma,OMOP3066508,RxNorm Extension
+43219804,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Amgen,OMOP506893,RxNorm Extension
+43219762,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP506479,RxNorm Extension
+43219740,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe Box of 1,OMOP506203,RxNorm Extension
+43208805,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP506897,RxNorm Extension
+43208804,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Amgen,OMOP506895,RxNorm Extension
+43198723,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Amgen,OMOP507347,RxNorm Extension
+43197909,0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP506477,RxNorm Extension
+43197894,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Amgen,OMOP506206,RxNorm Extension
+43197893,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Amgen,OMOP506202,RxNorm Extension
+43187715,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP507346,RxNorm Extension
+43186910,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP506892,RxNorm Extension
+43186871,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Amgen,OMOP506484,RxNorm Extension
+43186843,0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP506205,RxNorm Extension
+43182009,darbepoetin alfa 0.025 MG/ML Prefilled Syringe Box of 1,OMOP475251,RxNorm Extension
+43171016,darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP475252,RxNorm Extension
+43164997,0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP506894,RxNorm Extension
+43164929,0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP506199,RxNorm Extension
+43160105,darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP475250,RxNorm Extension
+43153948,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP506483,RxNorm Extension
+43153914,0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP506201,RxNorm Extension
+43142797,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe Box of 1,OMOP506482,RxNorm Extension
+43137970,darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP475249,RxNorm Extension
+43137969,darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 1,OMOP475247,RxNorm Extension
+42956709,darbepoetin alfa Prefilled Syringe [NESP],OMOP4683245,RxNorm Extension
+42956705,darbepoetin alfa 0.12 MG/ML Prefilled Syringe [NESP],OMOP4683242,RxNorm Extension
+42956704,darbepoetin alfa 0.12 MG/ML Prefilled Syringe,OMOP4683241,RxNorm Extension
+42956702,darbepoetin alfa 0.06 MG/ML Prefilled Syringe [NESP],OMOP4683239,RxNorm Extension
+42956700,darbepoetin alfa 0.04 MG/ML Prefilled Syringe [NESP],OMOP4683237,RxNorm Extension
+42956697,darbepoetin alfa 0.24 MG/ML Prefilled Syringe [NESP],OMOP4683234,RxNorm Extension
+42956696,darbepoetin alfa 0.24 MG/ML Prefilled Syringe,OMOP4683233,RxNorm Extension
+42956694,darbepoetin alfa 0.075 MG/ML Prefilled Syringe [NESP],OMOP4683231,RxNorm Extension
+42922924,0.5 ML darbepoetin alfa 0.12 MG/ML Prefilled Syringe [NESP],OMOP4649723,RxNorm Extension
+42922923,0.5 ML darbepoetin alfa 0.12 MG/ML Prefilled Syringe,OMOP4649722,RxNorm Extension
+42922922,0.5 ML darbepoetin alfa 0.06 MG/ML Prefilled Syringe [NESP],OMOP4649721,RxNorm Extension
+42922921,0.5 ML darbepoetin alfa 0.06 MG/ML Prefilled Syringe,OMOP4649720,RxNorm Extension
+42922920,0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [NESP],OMOP4649719,RxNorm Extension
+42922919,0.5 ML darbepoetin alfa 0.24 MG/ML Prefilled Syringe [NESP],OMOP4649718,RxNorm Extension
+42922918,0.5 ML darbepoetin alfa 0.24 MG/ML Prefilled Syringe,OMOP4649717,RxNorm Extension
+42922917,0.5 ML darbepoetin alfa 0.075 MG/ML Prefilled Syringe [NESP],OMOP4649716,RxNorm Extension
+42922915,0.5 ML darbepoetin alfa 0.075 MG/ML Prefilled Syringe,OMOP4649715,RxNorm Extension
+42903316,darbepoetin alfa 0.5 MG/ML Prefilled Syringe,1360429,RxNorm
+42903250,darbepoetin alfa 0.06 MG/ML Prefilled Syringe [Aranesp],1360363,RxNorm
+42903249,darbepoetin alfa 0.06 MG/ML Prefilled Syringe,1360362,RxNorm
+42902697,darbepoetin alfa 0.1 MG/ML Prefilled Syringe [Aranesp],1359810,RxNorm
+42902618,darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp],1359731,RxNorm
+42902617,darbepoetin alfa 0.1 MG/ML Prefilled Syringe,1359730,RxNorm
+42902515,darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp],1359628,RxNorm
+42902492,darbepoetin alfa 0.2 MG/ML Prefilled Syringe,1359605,RxNorm
+42482129,darbepoetin alfa 0.04 MG/ML Prefilled Syringe,OMOP419451,RxNorm Extension
+42480887,darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp],OMOP419452,RxNorm Extension
+41476483,0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Haematogmbh,OMOP2674445,RxNorm Extension
+41476472,0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Cc,OMOP2674434,RxNorm Extension
+41446179,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Haematogmbh,OMOP2644141,RxNorm Extension
+41446097,0.38 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Emra-Med,OMOP2644059,RxNorm Extension
+41446096,0.38 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe,OMOP2644058,RxNorm Extension
+41446095,0.38 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp] Box of 4,OMOP2644057,RxNorm Extension
+41446094,0.38 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4,OMOP2644056,RxNorm Extension
+41446093,0.38 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp],OMOP2644055,RxNorm Extension
+41411159,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Inopha,OMOP2609121,RxNorm Extension
+41411103,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Haematogmbh,OMOP2609065,RxNorm Extension
+41410923,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Nespo] Box of 1,OMOP2608885,RxNorm Extension
+41410887,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Kohlpharma,OMOP2608849,RxNorm Extension
+41410784,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Aca Mueller,OMOP2608746,RxNorm Extension
+41410692,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Nespo],OMOP2608654,RxNorm Extension
+41410658,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Axicorp,OMOP2608620,RxNorm Extension
+41410657,0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp] Box of 1 by Orifarm Leverkus,OMOP2608619,RxNorm Extension
+41410258,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Beragena,OMOP2608220,RxNorm Extension
+41410257,0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe [Aranesp] Box of 4 by Emra-Med,OMOP2608219,RxNorm Extension
+46221598,darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp],1605174,RxNorm
+46221597,darbepoetin alfa 0.025 MG/ML Prefilled Syringe,1605173,RxNorm
+46221596,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp],1605172,RxNorm
+46221595,0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe,1605171,RxNorm
+44206534,0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4 by Amgen,OMOP3083257,RxNorm Extension
+44206531,0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4 by Cc,OMOP3083254,RxNorm Extension
+44206530,0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe Box of 4 by Haematogmbh,OMOP3083253,RxNorm Extension
+44201228,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Haematogmbh,OMOP3077951,RxNorm Extension
+44201227,0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe Box of 4 by Amgen,OMOP3077950,RxNorm Extension
